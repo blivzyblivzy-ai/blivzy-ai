@@ -1,0 +1,533 @@
+>how do i
+>what is
+>why is the sky blue
+>write an essay about
+>convert 5 km to miles
+>solve 2x+3=11
+>tell me a joke
+how do i solve a quadratic equation
+how do i write an essay
+how do i write a thesis statement
+how do i cook rice
+how do i boil an egg
+how do i convert celsius to fahrenheit
+how do i find the area of a circle
+how do i calculate a percentage
+how do i study better
+how do i memorize things
+how do i save money
+how do i make a strong password
+what is the speed of light
+what is photosynthesis
+what is gravity
+what is the pythagorean theorem
+what is a prime number
+what is dna
+what is an atom
+what is a derivative
+what is an integral
+what is the water cycle
+what is the boiling point of water
+what is the capital of hungary
+what are newtons laws of motion
+what is a black hole
+what is the big bang
+what is a light year
+what is machine learning
+what is the flipper zero
+what is sub-ghz
+what is nfc
+what is a fibonacci sequence
+what is the golden ratio
+what is compound interest
+what is a leap year
+what can you do
+explain photosynthesis
+explain gravity
+explain the water cycle
+explain the pythagorean theorem
+explain evolution
+explain climate change
+why is the sky blue
+why do we sleep
+how many bones are in the body
+how many planets are there
+how old is the earth
+how far is the moon
+how does the internet work
+how does wifi work
+write an essay about
+write a paragraph about
+write an email about
+write a speech about
+write an outline for
+write a thesis statement about
+write a poem about
+convert 5 km to miles
+convert 100 f to c
+convert 10 kg to lb
+convert 1 gb to mb
+solve 2x+3=11
+solve x^2-5x+6=0
+area of circle radius 5
+area of rectangle 3 4
+volume of sphere radius 3
+is 97 prime
+prime factors of 360
+fibonacci 20
+binary of 255
+roman numeral of 1994
+average of 4 8 15 16
+gcd of 48 and 18
+square root of 144
+15 percent of 80
+tell me a joke
+tell me a fun fact
+tell me a story
+roll a dice
+flip a coin
+random number
+what time is it
+what day is it
+battery level
+the
+and
+about
+what
+when
+where
+which
+who
+why
+how
+can
+could
+would
+should
+please
+help
+explain
+example
+calculate
+convert
+solve
+write
+essay
+equation
+formula
+percentage
+planet
+photosynthesis
+gravity
+temperature
+triangle
+quadratic
+Pythagorean
+how do i 
+what is 
+why is 
+who was 
+when did 
+how many 
+tell me about 
+calculate 
+solve 
+convert 
+write a poem about 
+write an email about 
+is it prime 
+more
+again
+my name is 
+pythagorean
+pythagoras
+speed of light
+light speed
+boiling point
+freezing point
+cellular respiration
+how to write an essay
+derivative
+differentiation
+integral
+integration
+area of a circle
+circle area
+quadratic formula
+sky blue
+sky is blue
+dna
+rna
+atom
+periodic table
+chemical elements
+newton
+laws of motion
+planets
+solar system
+sun
+the sun
+moon
+the moon
+black hole
+big bang
+milky way
+galaxy
+light year
+earth age
+age of the earth
+earth size
+diameter of earth
+seasons
+prime number
+primes
+percent
+sphere
+volume of sphere
+area of triangle
+mitochondria
+mitochondrion
+cell
+cells
+bones
+skeleton
+heart
+brain
+blood
+vitamins
+sleep
+water intake
+drink water
+celsius
+fahrenheit
+speed formula
+speed distance time
+cook rice
+boil egg
+boiled egg
+cook pasta
+hungary
+budapest
+capital cities
+capitals
+continents
+oceans
+tallest mountain
+mount everest
+longest river
+nile
+water cycle
+trigonometry
+sine
+e=mc
+kinetic energy
+ohm
+ohms law
+capacitor
+led resistor
+mean median mode
+statistics
+probability
+algebra
+fraction
+fractions
+exponent
+power rules
+logarithm
+log
+euler number
+e constant
+golden ratio
+fibonacci sequence
+binary
+binary numbers
+hexadecimal
+hex numbers
+computer
+cpu
+ram memory
+internet
+wifi
+wi-fi
+bluetooth
+password
+strong password
+encryption
+cryptography
+artificial intelligence
+machine learning
+programming
+coding
+python
+python language
+variable
+loop
+algorithm
+flipper zero
+flipper
+sub-ghz
+subghz
+nfc
+rfid
+125khz
+infrared
+ir remote
+badusb
+gpio pins
+momentum firmware
+custom firmware
+battery life
+save battery
+electricity
+voltage
+magnet
+magnetism
+sound
+speed of sound
+states of matter
+solid liquid gas
+acid base
+ph scale
+oxygen
+carbon dioxide
+co2
+climate change
+global warming
+evolution
+natural selection
+vaccine
+vaccines
+first aid
+burn first aid
+emergency number
+emergency
+world war 2
+second world war
+world war 1
+first world war
+roman empire
+rome
+printing press
+gutenberg
+moon landing
+apollo 11
+internet history
+who invented the internet
+telephone
+who invented the telephone
+light bulb
+who invented the light bulb
+rubik
+rubik's cube
+shakespeare
+grammar
+parts of speech
+punctuation
+comma rules
+thesis statement
+paragraph
+study tips
+how to study
+memory tips
+how to memorize
+public speaking
+presentation tips
+time management
+productivity
+money
+budget
+compound interest
+inflation
+exercise
+workout
+healthy eating
+nutrition
+calories
+calorie
+stress
+anxiety tips
+chess
+chess rules
+music notes
+music theory
+color mixing
+primary colors
+roman numerals
+leap year
+time zones
+timezone
+unit conversion
+convert units
+meaning of life
+capabilities
+internet access
+are you online
+chatgpt
+openai
+mars
+red planet
+jupiter
+largest planet
+saturn
+saturns rings
+venus
+mercury planet
+planet order
+solar eclipse
+lunar eclipse
+tides
+northern lights
+aurora
+rainbow
+lightning
+thunder
+volcano
+earthquake
+tsunami
+hurricane
+cyclone
+greenhouse effect
+renewable energy
+solar power
+nuclear fission
+nuclear fusion
+transistor
+semiconductor
+laser
+friction
+momentum
+pressure
+density
+archimedes
+thermodynamics
+entropy
+quantum mechanics
+absolute zero
+gene
+chromosome
+protein
+enzyme
+bacteria
+virus
+immune system
+digestion
+lungs
+breathing
+dinosaurs
+extinction
+food chain
+ecosystem
+biodiversity
+square root
+imaginary number
+complex numbers
+matrix
+vector
+limit
+calculus
+standard deviation
+arithmetic sequence
+geometric sequence
+permutation
+combination
+divisibility rules
+ratio
+proportion
+slope
+linear equation
+systems of equations
+cone volume
+pyramid volume
+standard form
+scientific notation
+ancient egypt
+ancient greece
+middle ages
+medieval
+renaissance
+industrial revolution
+french revolution
+cold war
+vikings
+great wall of china
+hungarian history
+hungary history
+danube
+lake balaton
+hungarian language
+hungarian inventors
+nobel prize hungary
+operating system
+linux
+open source
+database
+sql
+html
+css
+api
+cloud computing
+blockchain
+phishing
+vpn
+two factor authentication
+2fa
+ssd vs hdd
+gps
+qr code
+arduino
+raspberry pi
+resistor color code
+i2c
+spi
+pwm
+multimeter
+3d printing
+cover letter
+resume
+job interview
+exam revision
+how to revise
+procrastination
+budgeting
+saving money
+omelette
+scrambled eggs
+pancakes
+boil potatoes
+baking bread
+kitchen conversions
+cup to ml
+cpr
+heart attack
+burns first aid
+meditation
+breathing exercise
+running tips
+push ups
+there their theyre
+its vs its
+affect effect
+citations
+referencing
+summary writing
+email etiquette
+guitar chords
+music scale
+major scale
+football rules
+soccer rules
+olympic games
+fastest animal
+largest animal
+tallest building
+how old are you
+your age
+do you speak hungarian
+hungarian mode
+how do you work
+how does blivzy work
+keyboard help
+how to type
+are you chatgpt
+can you learn
+add knowledge

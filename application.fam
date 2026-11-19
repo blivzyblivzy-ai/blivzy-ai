@@ -1,0 +1,13 @@
+App(
+    appid="blivzy_ai",
+    name="Blivzy AI",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="blivzy_ai_main",
+    stack_size=8 * 1024,
+    fap_category="Tools",
+    fap_icon="icon.png",
+    fap_author="Blivzy",
+    fap_version="0.7",
+    fap_description="Universal offline chat assistant (English + Hungarian, QWERTZ keyboard): maths, equations, calculus, dates, loans, unit conversion, writing that uses its knowledge base, and a typo-tolerant knowledge base. Made by Blivzy.",
+    requires=["gui", "storage"],
+)

@@ -1,0 +1,430 @@
+>hogyan
+>mi az
+>miert kek az eg
+>irj esszet
+>convert 5 km to miles
+>solve 2x+3=11
+>meselj egy viccet
+hogyan oldjam meg a masodfoku egyenletet
+hogyan irjak esszet
+hogyan fozzek rizst
+hogyan fozzek tojast
+hogyan szamoljam ki a szazalekot
+hogyan tanuljak jobban
+mi a fotoszintezis
+mi a gravitacio
+mi a pitagorasz-tetel
+mi az a primszam
+mi a dns
+mi az az atom
+mi a derivalt
+mi az integral
+mi a vizkoerforgas
+mi a hold
+mi a flipper zero
+mi a fibonacci sorozat
+mi a szokoev
+mi a fold kora
+hany bolygo van
+hany csontja van az embernek
+hany eves a fold
+miert kek az eg
+miert alszunk
+mekkora a feny sebessege
+mi a magyarorszag fovarosa
+mit tudsz
+segitseg
+szia
+koszonom
+meselj egy viccet
+irj esszet
+irj bekezdest
+irj emailt
+irj beszedet
+mennyi az ido
+milyen nap van
+akkumulator
+kocka dobas
+fej vagy iras
+a
+az
+es
+hogy
+mi
+mit
+miert
+hogyan
+mikor
+hol
+ki
+melyik
+kerlek
+segits
+magyarazd
+pelda
+szamolj
+valtsd
+oldd
+mi a 
+mi az 
+hogyan 
+miert 
+mennyi 
+mikor 
+ki volt 
+irj 
+oldd meg 
+meselj
+szamold ki 
+valtsd at 
+vicc
+erdekesseg
+idezet
+tovabb
+megint
+primszam-e
+hogyan fozzek 
+mi a magyar 
+hany 
+pitagorasz
+derekszogu haromszog
+feny sebessege
+fenysebesseg
+forraspont
+fagyaspont
+fotoszintezis
+gravitacio
+nehezseg
+esszet
+esszet irni
+derivalt
+derivalas
+integral
+integralas
+kor terulete
+kor kerulete
+masodfoku
+masodfoku egyenlet
+kek az eg
+miert kek
+dns
+dezoxiribonukleinsav
+atom
+newton
+mozgastorvenyek
+bolygok
+naprendszer
+nap
+a nap
+hold
+a hold
+fold kora
+foldrajz
+magyarorszag
+foldreszek
+legmagasabb hegy
+mount everest
+vizkoerforgas
+viz korforgasa
+trigonometria
+szinusz
+ohm
+ohm torveny
+szazalek
+szazalekszamitas
+prim
+primszam
+tortek
+tort
+hatvany
+hatvanyozas
+fibonacci
+kettes szamrendszer
+binaris
+szamitogep
+processzor
+jelszo
+eros jelszo
+mesterseges intelligencia
+flipper zero
+flipper
+sub-ghz
+subghz
+nfc
+infravoros
+taviranyito
+sebesseg formula
+sebesseg
+homerseklet
+celsius
+fozz rizst
+rizs fozes
+tojas fozes
+fozott tojas
+alvas
+hany ora alvas
+tanulas
+hogyan tanuljak
+vitaminok
+vitamin
+rubik kocka
+rubik
+vilaghaboru
+masodik vilaghaboru
+elso vilaghaboru
+hold leszallas
+apollo 11
+szokev
+szokev ev
+idozona
+idozonak
+segelyhivo
+vesz
+oxigen
+szen-dioxid
+co2
+klimavaltozas
+felmelegedes
+evolucio
+termeszetes szelekcio
+mitokondrium
+csontok
+csontvaz
+sziv
+szivdobogas
+hungarikum
+magyar nyelv
+penz
+koltsegvetes
+mire vagy kepes
+magyarorszag fovarosa
+budapest
+duna
+tisza
+balaton
+kekes
+magyarorszag legmagasabb csucsa
+szent istvan
+istvan kiraly
+honfoglalas
+1848
+marcius 15
+1956
+forradalom 1956
+trianon
+nemzeti unnepek
+unnepnapok
+himnusz
+magyar abc
+hangrend
+melyhangu magashangu
+szofajok
+magyar feltalalok
+feltalalok
+nobel dij
+magyar nobel dijasok
+puskas ferenc
+aranycsapat
+petofi
+petofi sandor
+arany janos
+jokai mor
+liszt ferenc
+bartok bela
+kodaly zoltan
+semmelweis
+kezmosas
+neumann janos
+gulyas
+gulyasleves
+langos
+tokaj
+tokaji aszu
+palinka
+unesco vilagoroksegi
+vilagoroksegi helyszinek
+bolygok sorrendje
+jupiter
+legnagyobb bolygo
+mars
+voros bolygo
+szaturnusz
+fekete lyuk
+relativitaselmelet
+einstein
+csillagok
+csillag
+tejutrendszer
+galaxis
+holdfazisok
+hold keringese
+napfogyatkozas
+holdfogyatkozas
+legmagasabb hegy a vilagon
+kontinensek
+foldreszek szama
+ocean
+oceanok
+leghosszabb folyo
+nilus
+legnagyobb orszag
+legkisebb orszag
+sivatag
+szahara
+vulkan
+vulkankitores
+foldrenges
+evszakok
+evszakok oka
+idojaras
+eghajlat
+szivarvany
+villam
+mennydorges
+hang
+hangsebesseg
+feny
+spektrum
+atomszerkezet
+proton
+periodusos rendszer
+mengyelejev
+ph ertek
+sav lug
+viz
+h2o
+halmazallapot
+halmazallapotok
+ero
+newton torvenyek
+munka
+teljesitmeny
+elektromossag
+aram
+mertekegysegek
+si mertekegysegek
+sebesseg szamitasa
+szazalek kiszamitasa
+haromszog terulete
+haromszog
+teglatest
+teglatest terfogata
+henger terfogata
+henger
+gomb terfogata
+gomb
+logaritmus
+faktorialis
+koszinusz
+vektor
+vektorok
+fuggveny
+linearis fuggveny
+valoszinuseg
+valoszinusegszamitas
+atlag
+median
+nevezetes azonossagok
+egyenletrendszer
+oszthatosag
+oszthatosagi szabalyok
+szamrendszer
+tizes szamrendszer
+internet
+mi az internet
+cpu
+ram
+memoria
+bit
+bajt
+programozas
+programozni tanulas
+python
+c nyelv
+blivzy ai
+hogyan mukodsz
+erosjelszo
+jelszo biztonsag
+wifi
+bluetooth
+phishing
+adathalaszat
+vpn
+gps
+qr kod
+arduino
+raspberry pi
+ellenallas szinkod
+szinkod
+sub ghz
+ibutton
+badusb
+gpio
+gpio labak
+momentum firmware
+momentum
+fap
+alkalmazas telepites
+akku
+sd kartya
+tanulasi tippek
+jegyzeteles
+jegyzetelo modszer
+oneletrajz
+allasinterju
+interju tippek
+motivacio
+vizsgastressz
+vizsgaszorongas
+idegen nyelv tanulas
+nyelvtanulas
+penzugy
+kamatos kamat
+inflacio
+arak emelkedese
+teszta
+hogyan fozzek teszta
+palacsinta
+palacsinta recept
+rantotta
+burgonya fozese
+krumpli
+kenyer sutese
+kenyer
+hany nap van egy evben
+szokoev
+het napjai
+honapok
+agy
+emesztes
+gyomor
+bakterium
+virus
+vedooltas
+oltas
+elsosegely
+elsosegelynyujtas
+segelyhivo szamok
+telefonszamok
+tapanyagok
+feherje szenhidrat zsir
+kaloria
+kaloriaszamlalas
+testmozgas
+edzes tippek
+meditacio
+levegovetel
+hany eves vagy
+szeretlek
+ertesz magyarul
+beszelsz magyarul
+melyik a kedvenc szined
+letezik ufo
+ufo
+mi az elet ertelme
+kb frissites
+hogyan tanitsalak
+nyelv valtas
+magyar nyelv beallitas
+billentyuzet
+hogyan irjak ekezetet

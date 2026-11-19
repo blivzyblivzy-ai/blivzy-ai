@@ -1,0 +1,388 @@
+pythagorean,pythagoras,right triangle|Pythagorean theorem: in a right triangle a^2 + b^2 = c^2, where c is the hypotenuse. Example: sides 3 and 4 give c = 5. Ask me "hypotenuse 3 4".
+speed of light,light speed|About 299,792,458 m/s in a vacuum (roughly 300,000 km/s or 186,000 miles/s). Nothing with mass can reach it.
+boiling point,freezing point,melting point of ice|Water boils at 100 C (212 F) at sea level and freezes at 0 C (32 F). Higher altitude lowers the boiling point.
+photosynthesis|Plants, algae and some bacteria use sunlight, water and CO2 to make glucose and oxygen: 6CO2 + 6H2O -> C6H12O6 + 6O2. It happens in chloroplasts using chlorophyll.
+cellular respiration|Cells break down glucose with oxygen to release ATP energy: C6H12O6 + 6O2 -> 6CO2 + 6H2O + energy. Most of it happens in mitochondria.
+gravity|Gravity pulls masses together. Near Earth's surface g is about 9.81 m/s^2. Newton: F = G*m1*m2/r^2. Einstein described it as curved spacetime.
+essay,how to write an essay,write an essay|Essay structure: intro (hook + thesis), 3 body paragraphs (point, evidence, explanation), conclusion (restate thesis, summary, closing thought). To get a ready template say: write an essay about <topic>.
+derivative,differentiation|Derivative rules: d/dx x^n = n*x^(n-1); product rule (uv)' = u'v + uv'; chain rule (f(g(x)))' = f'(g(x))*g'(x). d/dx sin x = cos x; d/dx e^x = e^x; d/dx ln x = 1/x.
+integral,integration,antiderivative|Basic integrals: x^n dx = x^(n+1)/(n+1) + C (n != -1); 1/x dx = ln|x| + C; e^x dx = e^x + C; sin x dx = -cos x + C. The definite integral is the signed area under a curve.
+area of a circle,circle area,area of circle,circumference|Circle: area = pi*r^2, circumference = 2*pi*r. Just say "area of circle radius 5" and I will compute it.
+quadratic,quadratic formula,second degree equation|For ax^2+bx+c=0: x = (-b +- sqrt(b^2-4ac)) / (2a). The discriminant D = b^2-4ac tells the roots: D>0 two real, D=0 one, D<0 complex. Try: quadratic 1 -3 2
+sky blue,sky is blue,blue sky|The sky looks blue because air scatters short (blue) wavelengths of sunlight more than long (red) ones. This is called Rayleigh scattering. Sunsets look red because light travels through more air.
+dna|DNA is a double helix made of nucleotides (A, T, G, C) that stores genetic information. A pairs with T, G pairs with C. Humans have about 3 billion base pairs.
+rna|RNA is a single-stranded molecule that copies and carries genetic instructions from DNA to make proteins. It uses uracil (U) instead of thymine (T).
+atom|An atom has a nucleus (protons + neutrons) surrounded by electrons. The number of protons defines the element.
+periodic table,chemical elements|The periodic table lists 118 known elements ordered by atomic number. Rows are periods, columns are groups. Elements in a group behave similarly.
+newton,laws of motion,newtons laws|1) Objects keep their motion unless a force acts (inertia). 2) F = m*a. 3) Every action has an equal and opposite reaction.
+planets,solar system,how many planets|The 8 planets in order from the Sun: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Pluto is a dwarf planet.
+sun,the sun,star|The Sun is a G-type star about 4.6 billion years old, 1.39 million km wide, with a surface of about 5,500 C. Light takes about 8 min 20 s to reach Earth.
+moon,the moon|The Moon is about 384,400 km from Earth, has 1/6 of Earth's gravity and orbits us every 27.3 days. Its phases come from the angle of sunlight.
+black hole|A black hole is a region where gravity is so strong that nothing, not even light, can escape past the event horizon. Many form when massive stars collapse.
+big bang|The Big Bang theory says the universe expanded from an extremely hot, dense state about 13.8 billion years ago and is still expanding.
+milky way,galaxy|The Milky Way is a barred spiral galaxy about 100,000 light-years across with hundreds of billions of stars. Our solar system lies in one of its arms.
+light year|A light-year is the distance light travels in one year: about 9.46 trillion km (5.88 trillion miles).
+earth age,age of the earth,how old is the earth|Earth is about 4.54 billion years old. Life appeared roughly 3.5 to 4 billion years ago.
+earth size,diameter of earth,circumference of earth|Earth's diameter is about 12,742 km and its equatorial circumference about 40,075 km. Radius is about 6,371 km.
+seasons|Seasons happen because Earth's axis is tilted about 23.5 degrees. When your hemisphere tilts toward the Sun it gets summer, away from the Sun winter.
+prime number,primes|A prime number has exactly two divisors: 1 and itself. First primes: 2, 3, 5, 7, 11, 13, 17, 19, 23, 29. Ask "is 97 prime" to test any number.
+percentage,percent,percentages|X% of Y = X*Y/100. Percent change = (new - old) / old * 100. Try: 15% of 80
+sphere,volume of sphere|Sphere: volume = 4/3*pi*r^3, surface area = 4*pi*r^2. Try: sphere volume radius 3
+triangle,area of triangle|Triangle area = 1/2*base*height. The angles add up to 180 degrees. Try: triangle area 6 4
+mitochondria,mitochondrion|Mitochondria produce most of the cell's ATP (energy). They have their own small DNA, inherited from the mother.
+cell,cells,cell theory|Cell theory: all living things are made of cells, cells are the basic unit of life, and cells come from existing cells. Eukaryotes have a nucleus; prokaryotes do not.
+bones,skeleton|An adult human has 206 bones (babies are born with about 270 that fuse). The femur is the longest, the stapes in the ear the smallest.
+heart|The human heart beats about 100,000 times a day and pumps roughly 5 liters of blood a minute. It has 4 chambers.
+brain|The adult brain weighs about 1.4 kg and has roughly 86 billion neurons. It uses about 20% of the body's energy.
+blood|Blood carries oxygen (red cells), fights infection (white cells), clots wounds (platelets) and moves nutrients in plasma. An adult has about 5 liters.
+vitamins|Vitamins are nutrients the body needs in small amounts: A (vision), B group (energy), C (immunity, collagen), D (bones), E (antioxidant), K (blood clotting). A varied diet usually covers them.
+sleep|Most adults need 7 to 9 hours of sleep. Teens need about 8 to 10. Regular times, no screens before bed and a cool dark room help.
+water intake,drink water,hydration|A common guide is about 2 liters of fluid a day for adults, more with heat or exercise. Thirst and pale urine are practical signals.
+celsius,fahrenheit,temperature conversion|F = C*9/5 + 32.  C = (F - 32)*5/9.  K = C + 273.15. Just say "100 f to c".
+speed formula,speed distance time|speed = distance / time. Rearranged: distance = speed*time, time = distance/speed. Say "convert 90 kmh to mph" for units.
+cook rice|Rinse the rice. Use about 2 cups water per 1 cup white rice, bring to a boil, cover and simmer on low about 15 min, then rest 5 min without lifting the lid.
+boil egg,boiled egg|Soft: 6 min, medium: 8 min, hard: 10 to 12 min in boiling water, then cool in cold water so they peel easily.
+cook pasta|Use plenty of salted boiling water, cook per the packet (usually 8 to 11 min), save a cup of pasta water, drain and toss with sauce.
+hungary,budapest|Hungary is in Central Europe, population about 9.6 million. Its capital is Budapest on the Danube. Language: Hungarian (Magyar). Currency: forint (HUF).
+capital cities,capitals|France-Paris, Germany-Berlin, Italy-Rome, Spain-Madrid, UK-London, USA-Washington D.C., Japan-Tokyo, Canada-Ottawa, Australia-Canberra, Brazil-Brasilia, India-New Delhi, Egypt-Cairo, Hungary-Budapest.
+continents|The 7 continents: Africa, Antarctica, Asia, Australia (Oceania), Europe, North America, South America. Asia is the largest.
+oceans|The 5 oceans: Pacific (largest), Atlantic, Indian, Southern and Arctic. Oceans cover about 71% of Earth's surface.
+tallest mountain,mount everest,everest|Mount Everest is the highest mountain above sea level at 8,849 m. Mauna Kea is tallest from base to peak, and Chimborazo is farthest from Earth's center.
+longest river,nile,amazon river|The Nile (about 6,650 km) and the Amazon (about 6,400 km) are the longest rivers; the Amazon carries by far the most water.
+water cycle|Evaporation -> condensation (clouds) -> precipitation -> collection -> repeat. The Sun drives it.
+trigonometry,sine,cosine,tangent|SOH-CAH-TOA: sin = opposite/hypotenuse, cos = adjacent/hypotenuse, tan = opposite/adjacent. sin^2 + cos^2 = 1. Try sind(30) for degrees.
+e=mc,kinetic energy,einstein|Einstein: E = m*c^2 (mass-energy equivalence). Kinetic energy = 1/2*m*v^2. Potential energy = m*g*h.
+ohm,ohms law,resistor|Ohm's law: V = I*R. Power: P = V*I = I^2*R = V^2/R. Resistors in series add; in parallel 1/R = 1/R1 + 1/R2.
+capacitor|A capacitor stores charge: Q = C*V. Energy = 1/2*C*V^2. In an RC circuit the time constant is tau = R*C.
+led resistor|Resistor for an LED: R = (Vsupply - Vled) / I. Example: 5V supply, 2V red LED, 10 mA gives 300 ohm. Flipper GPIO is 3.3 V.
+mean median mode,statistics|Mean = sum/count. Median = middle value when sorted. Mode = most frequent value. Range = max - min. Try: average of 4 8 15 16
+probability|Probability = favorable outcomes / all outcomes (0 to 1). Independent events: P(A and B) = P(A)*P(B). Complement: P(not A) = 1 - P(A).
+algebra|Algebra uses letters for unknown numbers. Keep equations balanced: do the same to both sides. Try: solve 3x-7=11
+fraction,fractions|Add fractions with a common denominator; multiply tops and bottoms; divide by multiplying by the reciprocal. Decimal = top / bottom.
+exponent,power rules|a^m * a^n = a^(m+n); a^m / a^n = a^(m-n); (a^m)^n = a^(m*n); a^0 = 1; a^-n = 1/a^n.
+logarithm,log|log_b(x) is the power you raise b to get x. log(xy) = log x + log y; log(x/y) = log x - log y; log(x^n) = n*log x. Try ln(e^3) or log2(8).
+pi|Pi is about 3.14159265, the ratio of any circle's circumference to its diameter. It is irrational and never repeats.
+euler number,e constant|e is about 2.71828183, the base of natural logarithms; e^x is its own derivative. Type e or exp(1).
+golden ratio|The golden ratio phi = (1 + sqrt 5)/2 which is about 1.618. Ratios of consecutive Fibonacci numbers approach it. Try fibonacci 20.
+fibonacci sequence|Each number is the sum of the previous two: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34... Ask "fibonacci 30" for any term.
+binary,binary numbers|Binary is base 2 using 0 and 1. Place values: 128 64 32 16 8 4 2 1. Ask "binary of 200" for hex, octal and binary.
+hexadecimal,hex numbers|Hex is base 16: digits 0-9 then A-F (A=10 ... F=15). One hex digit = 4 bits. Ask "hex of 255".
+computer,cpu,processor|A CPU fetches, decodes and executes instructions. Clock speed (GHz) is cycles per second. The Flipper Zero uses an STM32WB55 ARM Cortex-M4 at 64 MHz.
+ram memory|RAM is fast temporary memory used by running programs; storage (flash/SD) keeps data when power is off. The Flipper Zero has about 256 KB of RAM, so apps like me must be small.
+internet,how does the internet work|The internet is a global network of networks that moves data in small packets using the IP protocol. DNS turns names like example.com into IP addresses; TCP/UDP handle delivery.
+wifi,wi-fi|Wi-Fi is wireless networking on 2.4, 5 or 6 GHz radio bands (IEEE 802.11). Use WPA2/WPA3 and a strong passphrase to stay secure.
+bluetooth|Bluetooth is short-range 2.4 GHz wireless for headphones, keyboards and sensors. Bluetooth Low Energy (BLE) saves power. The Flipper Zero has a BLE radio.
+password,strong password|A strong password is long (14+ characters), unique per site and random, ideally from a password manager with two-factor authentication. Length beats complexity.
+encryption,cryptography|Encryption scrambles data with a key so only the key holder can read it. AES is common symmetric encryption; RSA and elliptic curves are used for public-key encryption.
+ai,artificial intelligence|Artificial intelligence is software that performs tasks needing human-like skills: learning, language, vision, planning. Big models like ChatGPT need huge compute; I am a small offline helper by comparison.
+machine learning|Machine learning lets computers learn patterns from data instead of explicit rules. Training adjusts model weights to reduce error on examples.
+programming,coding,learn to code|Start with Python: print, variables, loops, functions. Build small projects, read errors carefully and practice daily. C is great for embedded work like Flipper apps.
+python,python language|Python is a readable general-purpose language: print("hi"), for i in range(5):, def f(x): return x*x. Great for scripts, data and learning.
+variable|A variable is a named place that holds a value, like x = 5. Its type (number, text, list) says what you can do with it.
+loop|A loop repeats code: for loops run a set number of times, while loops run until a condition fails. Avoid infinite loops by changing the condition.
+algorithm|An algorithm is a step-by-step procedure for solving a problem, like binary search or sorting. Good ones are correct and efficient (Big-O describes how cost grows).
+flipper zero,flipper|Flipper Zero is a portable multi-tool for hardware hobbyists with sub-GHz radio, 125 kHz RFID, NFC, infrared, iButton, GPIO, USB, Bluetooth LE and a 128x64 screen. Use it only on devices you own or may test.
+sub-ghz,subghz,sub ghz|The Flipper's sub-GHz radio covers 300-348, 387-464 and 779-928 MHz for remotes, sensors and doorbells. Transmission rules vary by country, so check local laws and only use your own devices.
+nfc|NFC is short-range (13.56 MHz, a few cm) wireless used by cards and phones. The Flipper can read many NFC cards and emulate some of them; protected or encrypted cards may not be copyable.
+rfid,125khz|Low-frequency 125 kHz RFID tags (EM4100, HID Prox) are simple fobs. The Flipper can read and emulate some of them. Only use it on your own tags.
+infrared,ir remote|The Flipper can learn and send infrared remote signals, and has a universal remote library for TVs and air conditioners. Point it at the device within a few meters.
+badusb|BadUSB makes the Flipper act as a USB keyboard to type scripted commands (DuckyScript). Use it only on your own computers or with permission.
+gpio pins|The Flipper's GPIO header exposes pins like 3.3V, 5V, GND and several I/O pins (3.3 V logic). Never apply more than 3.3 V to an input pin.
+momentum firmware,custom firmware|Momentum is a community custom firmware for the Flipper Zero with extra apps, settings and themes. Install through the web updater or qFlipper and keep a backup of your SD card.
+battery life,save battery|To save battery: lower screen brightness, turn off Bluetooth when unused, avoid long radio use and keep it above 0 C. Charge with a 5 V USB source.
+electricity,voltage,current|Voltage (V) is electrical pressure, current (A) is flow, resistance (ohm) opposes flow. Power in watts = V*I. Always treat mains electricity as dangerous.
+magnet,magnetism|Magnets have north and south poles; opposites attract. Moving charges create magnetic fields, and changing fields create electricity (induction).
+sound,speed of sound|Sound is a pressure wave. In air at 20 C it travels about 343 m/s, faster in water (about 1,480 m/s) and steel. Pitch depends on frequency.
+states of matter,solid liquid gas|The common states of matter are solid, liquid, gas and plasma. Heating adds energy: melting, boiling; cooling reverses it: condensing, freezing.
+acid base,ph scale,ph|pH runs 0 to 14: below 7 acidic, 7 neutral (pure water), above 7 basic. Each step is a factor of 10 in hydrogen ion concentration.
+oxygen,o2|Oxygen makes up about 21% of air and is needed for respiration and combustion. Its atomic number is 8.
+carbon dioxide,co2|CO2 is a gas made of one carbon and two oxygen atoms. Plants absorb it; burning fuels and breathing release it. It traps heat as a greenhouse gas.
+climate change,global warming|Burning fossil fuels raises greenhouse gases like CO2 and methane, which trap heat and warm the planet. Impacts include rising seas, heat waves and shifting weather. Solutions: clean energy, efficiency, forests.
+evolution,natural selection|Evolution is change in inherited traits across generations. Natural selection (Darwin) means individuals better suited to their environment tend to survive and reproduce more.
+vaccine,vaccines|Vaccines train the immune system to recognize a germ using a harmless piece or weakened form, so the body responds quickly if it meets the real thing.
+first aid,burn first aid|For minor burns, cool under running cool water for 10-20 min and cover loosely. For serious injuries call your local emergency number (112 in Europe, 911 in the US).
+emergency number,emergency|Emergency numbers: 112 works across the EU and in many countries, 911 in the US and Canada, 999 in the UK. In Hungary call 112.
+world war 2,second world war,ww2|World War II lasted from 1939 to 1945, involving most of the world's nations. It ended in Europe on 8 May 1945 and in Asia with Japan's surrender in September 1945.
+world war 1,first world war,ww1|World War I ran from 1914 to 1918, triggered by the assassination of Archduke Franz Ferdinand. It ended with the armistice on 11 November 1918.
+roman empire,rome|The Roman Empire began in 27 BC under Augustus; the Western Empire fell in 476 AD while the Eastern (Byzantine) Empire lasted until 1453.
+printing press,gutenberg|Johannes Gutenberg introduced movable-type printing in Europe around 1440, making books cheap and spreading literacy and ideas.
+moon landing,apollo 11|Apollo 11 landed on the Moon on 20 July 1969. Neil Armstrong and Buzz Aldrin walked on it while Michael Collins orbited above.
+internet history,who invented the internet|The internet grew from ARPANET (1969). TCP/IP was adopted in 1983, and Tim Berners-Lee invented the World Wide Web in 1989-1991.
+telephone,who invented the telephone|Alexander Graham Bell was granted the first US telephone patent in 1876, though others like Antonio Meucci also contributed.
+light bulb,who invented the light bulb|Thomas Edison developed the first long-lasting practical incandescent bulb in 1879, building on earlier work by others such as Joseph Swan.
+rubik,rubik's cube|The Rubik's Cube was invented in 1974 by Hungarian Erno Rubik. It has 43 quintillion possible positions, yet can always be solved in 20 moves or fewer.
+shakespeare|William Shakespeare (1564-1616) wrote about 37 plays and 154 sonnets, including Hamlet, Macbeth and Romeo and Juliet.
+grammar,parts of speech|The 8 parts of speech: noun, pronoun, verb, adjective, adverb, preposition, conjunction, interjection. A sentence needs a subject and a verb.
+punctuation,comma rules|Use a period to end a statement, a comma to separate list items or clauses, a semicolon to join related clauses, a colon before lists, and an apostrophe for possession or contractions.
+thesis statement|A thesis states your main claim in 1-2 sentences and previews your reasons. Formula: Topic + position + because. Ask me: thesis statement about <topic>.
+paragraph|A good paragraph: topic sentence, supporting details or evidence, explanation, and a closing sentence. Try: write a paragraph about <topic>.
+study tips,how to study,study|Study in 25-minute focused blocks (Pomodoro) with 5 minute breaks, test yourself instead of rereading, space sessions over days and sleep well before exams.
+memory tips,how to memorize|Memorize with active recall and spaced repetition, link facts to vivid images (memory palace), teach it to someone else and sleep after learning.
+public speaking,presentation tips|Know your opening, speak slower than feels natural, pause, make eye contact and use 1 idea per slide. Practice aloud. Try: write a speech about <topic>.
+time management,productivity|Pick 1-3 priorities a day, block time for them, batch small tasks and remove distractions. Review each evening and plan tomorrow.
+money,budget,saving money|A simple budget: 50% needs, 30% wants, 20% savings/debt. Build an emergency fund of 3 to 6 months of expenses first. This is general info, not financial advice.
+compound interest|Compound interest: A = P*(1 + r/n)^(n*t). Example: 1000 at 5% per year for 10 years is 1000*1.05^10, about 1628.89. Try 1000*1.05^10
+inflation|Inflation is the general rise of prices over time, reducing what money can buy. Central banks aim for around 2% a year in many economies.
+exercise,workout|Adults are advised to do about 150 minutes of moderate activity a week plus strength training twice a week. Start gently and increase gradually. Ask a doctor if you have health concerns.
+healthy eating,nutrition|Eat plenty of vegetables, fruit, whole grains and protein, limit sugary drinks and ultra-processed food, and drink water. Balance and variety matter more than any single food.
+calories,calorie|A calorie (kcal) is a unit of food energy. Protein and carbs have about 4 kcal per gram, fat 9, alcohol 7. Needs vary by age, size and activity.
+stress,anxiety tips|For stress: slow breathing (in 4 s, out 6 s), a short walk, sleep, talking to someone you trust and breaking tasks into small steps. If it persists, speak to a health professional.
+chess,chess rules|Chess is played on 8x8 squares. Pieces: king, queen, rooks, bishops, knights, pawns. Control the center, develop pieces early, castle for king safety. Checkmate wins.
+music notes,music theory|Western music has 12 notes per octave: C C# D D# E F F# G G# A A# B. A major scale uses steps whole-whole-half-whole-whole-whole-half. A4 is 440 Hz.
+color mixing,primary colors|Light (RGB) mixes red, green, blue to make white. Paint/print (CMY) mixes cyan, magenta, yellow. Traditional paint primaries are red, yellow, blue.
+roman numerals|I=1, V=5, X=10, L=50, C=100, D=500, M=1000. Smaller before larger subtracts (IV=4, IX=9). Ask "roman of 1994".
+leap year|A leap year has 366 days. Rule: divisible by 4, except centuries, unless divisible by 400. So 2000 and 2024 are leap years; 1900 is not.
+time zones,timezone|Earth is split into 24 main time zones, about 15 degrees of longitude each. Hungary uses CET (UTC+1) and CEST (UTC+2) in summer.
+unit conversion,convert units,conversions|I convert length, mass, volume, time, temperature, speed and data. Try: 5 km to miles, 10 kg in lb, 100 f to c, 1 gb to mb.
+meaning of life|Philosophers disagree. Many find meaning in relationships, learning, helping others and creating things. Douglas Adams famously joked that the answer is 42.
+what can you do,capabilities|I'm an offline helper: maths and equations, unit conversion, number tools (primes, binary, stats), geometry, writing templates, small talk and a searchable knowledge base. Say help for examples.
+internet access,are you online|I run completely offline on your Flipper Zero. I never send your questions anywhere, so my knowledge is limited to my built-in tools and the KB files on your SD card.
+chatgpt,openai,claude|ChatGPT and Claude are large cloud language models running on powerful servers. I am a tiny offline assistant on a Flipper Zero, so I can't match them, but I'm private and always with you.
+mars,red planet|Mars is the Red Planet: two moons (Phobos, Deimos), a day of about 24.6 hours, and Olympus Mons, the tallest volcano in the Solar System (~22 km).
+jupiter,largest planet|Jupiter is the largest planet, with more than twice the mass of all other planets combined. Its Great Red Spot is a giant storm.
+saturn,saturns rings|Saturn is famous for its rings of ice and rock. Its largest moon is Titan. It is less dense than water.
+venus|Venus is the hottest planet (~465 C) thanks to a thick CO2 atmosphere. A day on Venus is longer than its year, and it spins backwards.
+mercury planet|Mercury is the smallest and closest planet to the Sun. A year is 88 Earth days; a sunrise-to-sunrise day lasts about 176.
+solar system,planet order|The 8 planets in order: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune. Pluto is a dwarf planet.
+solar eclipse,lunar eclipse|In a solar eclipse the Moon passes between the Sun and Earth; in a lunar eclipse Earth's shadow falls on the Moon. Never look at the Sun without eclipse glasses.
+tides|Tides are caused mainly by the Moon's gravity pulling on the oceans. Spring tides (strongest) happen at new and full moon.
+northern lights,aurora|Auroras happen when charged solar particles hit gases in the upper atmosphere near the poles, making green, red or purple light.
+rainbow|A rainbow is sunlight refracted and reflected in water droplets. Colors: red, orange, yellow, green, blue, indigo, violet. Look away from the Sun.
+lightning,thunder|Lightning is a huge electric discharge. Light travels faster than sound, so count seconds between flash and thunder and divide by 3 for km.
+volcano|A volcano is an opening in the crust where magma erupts. Magma becomes lava on the surface. Most sit along tectonic plate edges.
+earthquake|Earthquakes are sudden releases of energy as tectonic plates slip. Magnitude is measured on the moment magnitude (formerly Richter) scale.
+tsunami|A tsunami is a series of huge waves, usually caused by undersea earthquakes or landslides. In deep water it is fast but low; near shore it grows tall.
+hurricane,cyclone|A hurricane (or typhoon/cyclone) is a rotating storm over warm ocean water with winds of at least 119 km/h (74 mph).
+greenhouse effect|Gases like CO2 and methane trap heat in the atmosphere. Some is natural and keeps Earth habitable; extra gases from fossil fuels warm the planet.
+renewable energy,solar power|Renewable energy comes from sources that replenish: sun, wind, water, geothermal, biomass. Solar panels turn light into electricity using semiconductors.
+nuclear fission,nuclear fusion|Fission splits heavy nuclei (uranium) and powers todays reactors. Fusion joins light nuclei (hydrogen) and powers the Sun; it is still experimental on Earth.
+transistor,semiconductor|A transistor is a tiny electronic switch/amplifier made from semiconductor material (silicon). Modern chips hold billions of them.
+laser|A laser makes a narrow, coherent beam of one color of light by stimulated emission. Used in barcode scanners, surgery, fibre optics. Never shine at eyes.
+friction|Friction is a force resisting sliding between surfaces: F = mu*N. It turns motion into heat and helps tyres and shoes grip.
+momentum,kinetic energy|Momentum p = m*v; kinetic energy = 1/2*m*v^2. Momentum is conserved in collisions.
+pressure|Pressure = force / area (pascal = N/m2). Atmospheric pressure at sea level is about 101,325 Pa. Pressure in liquids grows with depth.
+density,archimedes|Density = mass / volume (water ~1 g/cm3). Archimedes: an object floats if it is less dense than the fluid; buoyant force equals the weight of displaced fluid.
+thermodynamics,entropy|1st law: energy is conserved. 2nd law: entropy (disorder) of an isolated system tends to increase, so heat flows from hot to cold.
+quantum mechanics|Quantum mechanics describes atoms and particles: energy comes in quanta, particles act like waves, and you cannot know exact position and momentum together (Heisenberg).
+absolute zero|Absolute zero is 0 K = -273.15 C, the lowest possible temperature, where particle motion is minimal.
+gene,chromosome|A gene is a DNA stretch that codes for a protein. Humans have 23 pairs of chromosomes (46 total) and roughly 20,000 protein-coding genes.
+protein,enzyme|Proteins are chains of amino acids doing most of the work in cells. Enzymes are proteins that speed up chemical reactions.
+bacteria,virus|Bacteria are living single cells (antibiotics work on them). Viruses need a host cell to reproduce (antibiotics do not work; vaccines and antivirals help).
+immune system|The immune system defends the body: white blood cells, antibodies, and memory cells that remember past invaders. Vaccines train it safely.
+digestion|Digestion breaks food down in the mouth, stomach and small intestine; nutrients are absorbed in the small intestine; the large intestine absorbs water.
+lungs,breathing|Lungs swap gases: oxygen goes into the blood, CO2 comes out. Gas exchange happens in tiny air sacs called alveoli.
+dinosaurs,extinction|Non-avian dinosaurs died out about 66 million years ago, likely after an asteroid impact. Birds are living dinosaurs.
+food chain,ecosystem|A food chain shows who eats whom: producers (plants) -> consumers -> decomposers. An ecosystem is all living things plus their environment.
+biodiversity|Biodiversity is the variety of life. Higher biodiversity makes ecosystems more resilient. Habitat loss is its main threat.
+square root,imaginary number|The square root of x is the number that squares to x. Negative numbers have no real root; i is defined as sqrt(-1). Try: sqrt 144
+complex numbers|A complex number is a + b*i where i^2 = -1. Add parts separately; multiply like brackets and use i^2 = -1.
+matrix|A matrix is a grid of numbers used for linear equations and transformations. Multiply rows by columns; order matters (AB is not BA).
+vector|A vector has magnitude and direction. Length = sqrt(x^2+y^2). Dot product a.b = |a||b|cos(angle).
+limit,calculus|A limit describes what a function approaches. Calculus has derivatives (rate of change) and integrals (area under a curve).
+standard deviation|Standard deviation measures spread: sqrt of the average squared difference from the mean. Small = values near the mean.
+arithmetic sequence,geometric sequence|Arithmetic: add a constant d each step; nth term = a1 + (n-1)d. Geometric: multiply by r; nth term = a1*r^(n-1).
+permutation,combination|Permutations count ordered arrangements nPr = n!/(n-r)!; combinations ignore order nCr = n!/(r!(n-r)!). Try: ncr(5,2)
+divisibility rules|2: even. 3: digit sum divisible by 3. 5: ends in 0 or 5. 9: digit sum divisible by 9. 10: ends in 0.
+ratio,proportion|A ratio compares quantities (3:2). A proportion says two ratios are equal: a/b = c/d, so a*d = b*c.
+slope,linear equation|Slope m = (y2-y1)/(x2-x1). A line is y = m*x + b (b is the y-intercept).
+systems of equations|Solve two equations by substitution or elimination. Example: x+y=5 and x-y=1 add to 2x=6, so x=3 and y=2.
+cone volume,pyramid volume|Cone: V = 1/3*pi*r^2*h. Pyramid: V = 1/3*base area*h. Cylinder: V = pi*r^2*h.
+standard form,scientific notation|Scientific notation writes a number as a*10^n with 1<=a<10. Example: 45000 = 4.5*10^4; 0.0003 = 3*10^-4.
+ancient egypt|Ancient Egypt grew along the Nile for about 3,000 years. Famous for pyramids (Giza ~2500 BC), hieroglyphs, pharaohs and mummification.
+ancient greece|Ancient Greece gave us democracy (Athens), philosophy (Socrates, Plato, Aristotle), the Olympic Games and early science and theatre.
+middle ages,medieval|The Middle Ages ran roughly from the 5th to the 15th century in Europe: feudalism, castles, the Church, plague (Black Death, 1347-1351).
+renaissance|The Renaissance (14th-17th century) revived art and science in Europe: Leonardo da Vinci, Michelangelo, Galileo, the printing press.
+industrial revolution|From about 1760 factories, steam engines and railways changed Britain and then the world, moving work from farms to cities.
+french revolution|Began in 1789 with the storming of the Bastille. It ended the absolute monarchy and spread ideas of liberty, equality and citizenship.
+cold war|A tense rivalry between the USA and USSR (about 1947-1991) with arms and space races but no direct war between them.
+vikings|Vikings were Scandinavian seafarers (c. 790-1066) who raided, traded and settled across Europe and reached North America.
+great wall of china|The Great Wall is a series of walls built over centuries; the best-known sections are from the Ming dynasty. Total length is thousands of km.
+hungarian history,hungary history|Hungary: Magyar tribes arrive c. 895; St Stephen crowned c. 1000; Ottoman era 1526-1699; revolution 1848; Austria-Hungary 1867-1918; revolution 1956; EU member since 2004.
+budapest|Budapest is Hungary's capital, formed in 1873 from Buda, Pest and Obuda. About 1.7 million people live there; the Danube splits it in two.
+danube|The Danube is Europe's second-longest river (~2,850 km) and flows through 10 countries, including Hungary (~417 km).
+lake balaton|Balaton is Central Europe's largest lake (~594 km2) and only about 3 m deep on average. Hungarians call it the Hungarian sea.
+hungarian language|Hungarian is a Uralic (Finno-Ugric) language spoken by about 13 million people. It is agglutinative: suffixes are added to words.
+hungarian inventors|Hungarian inventors: Erno Rubik (cube), Laszlo Biro (ballpoint pen), Denes Gabor (holography), Anyos Jedlik (dynamo principle, soda water), Janos Neumann (computer architecture).
+nobel prize hungary|Hungarian Nobel laureates include Szent-Gyorgyi (1937), Wigner (1963), Gabor (1971), Kertesz (2002), Kariko and Krausz (2023) and Krasznahorkai (2025).
+operating system,linux|An operating system manages hardware and programs (Windows, macOS, Linux, Android). Linux is open source and runs most servers; Flipper firmware runs on FreeRTOS.
+open source|Open source software has publicly available code anyone can inspect, modify and share under a licence. The Flipper firmware is open source.
+database,sql|A database stores structured data. SQL is the language for querying relational databases: SELECT name FROM users WHERE age > 18.
+html,css,javascript|HTML structures a web page, CSS styles it, JavaScript makes it interactive. Together they run almost every website.
+api|An API (application programming interface) is a defined way for programs to talk to each other, e.g. a weather service returning JSON.
+cloud computing|Cloud computing means using remote servers over the internet for storage and processing instead of your own machine.
+blockchain|A blockchain is a shared ledger of blocks linked by cryptographic hashes, making past records hard to change without anyone noticing.
+phishing|Phishing is a fake email, message or site that tricks you into giving up passwords or data. Check the sender and link, and use two-factor authentication.
+vpn|A VPN encrypts traffic between your device and a VPN server, hiding it from the local network. It does not make you anonymous.
+two factor authentication,2fa|2FA asks for a second proof (app code, key, SMS) besides your password. App or hardware keys are stronger than SMS.
+ssd vs hdd|SSDs store data on flash chips: fast, silent, shock-resistant. HDDs use spinning disks: cheaper per GB but slower and fragile.
+gps|GPS computes position from satellite signals; it needs at least 4 satellites. The Flipper Zero has no built-in GPS (external module only).
+qr code|A QR code is a 2D barcode that stores text or links. It has error correction, so it can still scan when slightly damaged.
+arduino,raspberry pi,esp32|Arduino: simple microcontroller boards. Raspberry Pi: tiny Linux computer. ESP32: cheap Wi-Fi/Bluetooth microcontroller. The Flipper GPIO can talk to them.
+resistor color code|Resistor colors: black 0, brown 1, red 2, orange 3, yellow 4, green 5, blue 6, violet 7, grey 8, white 9. The last band is tolerance.
+i2c,spi,uart|I2C: 2-wire bus with addresses. SPI: fast 4-wire bus. UART: simple 2-wire serial (TX/RX). The Flipper GPIO exposes these.
+pwm|PWM (pulse-width modulation) switches a signal on and off fast; the duty cycle sets average power, used for dimming LEDs and driving servos.
+multimeter|A multimeter measures voltage, current and resistance. Measure voltage in parallel, current in series, resistance with the circuit unpowered.
+3d printing|3D printers build objects layer by layer, usually melting plastic filament (FDM) or curing resin. Designs are sliced into G-code.
+cover letter|Cover letter: 3-4 short paragraphs - why this job, 1-2 achievements with numbers, why this company, and a polite close. Tailor it every time.
+cv,resume|Keep a CV to 1-2 pages: contact, summary, experience (latest first, with results), education, skills. Use clear headings and numbers.
+job interview|Prepare 2-3 stories (situation, action, result), research the company, ask your own questions, arrive early and be concise.
+exam revision,how to revise|Revise with past papers, active recall and spaced repetition; sleep before the exam. Short focused sessions beat all-nighters.
+procrastination|Beat procrastination by shrinking the first step to 2 minutes, removing distractions and using a timer (25 min work, 5 min break).
+budgeting|Try 50/30/20: 50% needs, 30% wants, 20% savings. Build an emergency fund of 3-6 months of expenses first.
+saving money|Pay yourself first: automate a monthly transfer, track subscriptions, cook at home, wait 48 hours before big purchases.
+omelette,scrambled eggs|Scrambled eggs: whisk with a pinch of salt, cook in butter on medium-low, stir gently, take off the heat while still glossy. Omelette: same eggs, fold when nearly set.
+pancakes|Pancake batter: 1 cup flour, 1 cup milk, 1 egg, 1 tbsp oil/butter, pinch of salt. Rest 15 min, cook thin in a hot pan, flip when bubbles show.
+boil potatoes|Start potatoes in cold salted water, simmer 15-25 minutes (by size) until a fork goes in easily. Drain and let steam dry.
+baking bread|Basic bread: flour, water, salt, yeast. Knead, rise 1-2 hours, bake at about 220 C for 30-40 minutes. Steam in the oven gives a crisp crust.
+kitchen conversions,cup to ml|1 cup = about 240 ml; 1 tbsp = 15 ml; 1 tsp = 5 ml; 1 stick butter = 113 g. Try: 2 cups to ml
+cpr,heart attack|Emergency: call your local number first (112 in Europe, 911 in the US). CPR: push hard and fast in the center of the chest, about 100-120 per minute, until help arrives.
+burns first aid|For a minor burn cool it under running water for 10-20 minutes, do not use ice or butter, cover loosely. Severe burns: call emergency services.
+meditation,breathing exercise|Simple exercise: breathe in 4 seconds, out 6 seconds, for 5 minutes. When your mind wanders, gently come back to the breath.
+running tips|Start with run/walk intervals, increase weekly distance by no more than about 10%, wear proper shoes, and rest between runs.
+push ups|Push-up: hands under shoulders, body in a straight line, lower chest to just above the floor, push up. Start on knees or an incline if needed.
+there their theyre|there = place (over there); their = belonging to them; they're = they are.
+its vs its|its = belonging to it (the dog wagged its tail); it's = it is / it has.
+affect effect|Affect is usually a verb (rain affects mood); effect is usually a noun (the effect of rain). Remember: Affect = Action.
+comma rules|Use a comma after an introductory phrase, between items in a list, before a conjunction joining two full clauses, and around extra information.
+citations,referencing|Cite every source you use: author, year, title, publisher/URL. Follow the style your school asks for (APA, MLA, Harvard) and quote sparingly.
+summary writing|A summary restates the main ideas in your own words, much shorter than the original: purpose, key points, conclusion. No opinions or new facts.
+email etiquette|Clear subject, greeting, short paragraphs, one request per email, polite close, and proofread before sending. Use reply-all sparingly.
+guitar chords|Beginner chords: Em, Am, C, G, D. A common progression is G - D - Em - C. Press close to the fret and keep fingers arched.
+music scale,major scale|Major scale pattern: whole, whole, half, whole, whole, whole, half. C major has no sharps or flats: C D E F G A B C.
+football rules,soccer rules|Football (soccer): 11 players per side, 90 minutes in two halves, no hands except the goalkeeper. Offside, fouls and cards are the key rules.
+olympic games|The modern Olympics began in Athens in 1896. Summer and Winter Games are held every four years, alternating every two.
+fastest animal,largest animal|Fastest animal: peregrine falcon (diving, over 300 km/h); fastest on land: cheetah (~100 km/h). Largest animal: blue whale (up to ~30 m).
+tallest building|The tallest building is the Burj Khalifa in Dubai, at about 828 m.
+how old are you,your age|I'm software, so no birthday - but I'm version 0.5.
+do you speak hungarian,hungarian mode|Igen! I understand Hungarian. Switch Language in the main menu: Hungarian mode adds a QWERTZ keyboard and accented letters (press # on the keyboard).
+how do you work,how does blivzy work|Blivzy AI is rule-based: a maths engine, unit and number tools, writing templates and a fuzzy search over kb_en.txt / kb_hu.txt on the SD card. It is not a neural network.
+keyboard help,how to type|On the keyboard: OK types, > sends, < deletes (hold to repeat), _ is space. # cycles letters -> symbols (-> accents in Hungarian mode). Up from the top row opens suggestions.
+are you chatgpt|No. I'm Blivzy AI, a small offline assistant for the Flipper Zero. I can't browse the internet or learn on my own, but you can add lines to my KB files.
+can you learn,add knowledge|Yes, through files: add lines like keyword one,keyword two|Answer text. to kb_en.txt or kb_hu.txt on the SD card. Longer keywords score higher.
+speed of sound,sound speed|About 343 m/s in air at 20 C (1,235 km/h). Faster in water (~1,480 m/s) and steel (~5,960 m/s). Sound cannot travel through a vacuum.
+escape velocity|Earth's escape velocity is about 11.2 km/s (40,300 km/h): v = sqrt(2GM/r). The Moon's is only 2.4 km/s.
+kinetic energy,potential energy,energy conservation|Kinetic energy = 1/2*m*v^2. Gravitational potential energy = m*g*h. Energy changes form but is never created or destroyed.
+power physics,work and power,watt|Work W = F*d (joules). Power P = W/t (watts). 1 horsepower is about 746 W. Electrical power P = U*I.
+noble gases|Helium, neon, argon, krypton, xenon and radon (group 18) are very unreactive because their outer electron shell is full.
+ph scale,acidity|pH runs 0-14: below 7 acidic, 7 neutral (pure water), above 7 basic. Each step is a 10x change in H+ concentration. Lemon juice is about 2, soap about 10.
+chemical bond,ionic bond,covalent bond|Ionic bonds transfer electrons (NaCl, table salt). Covalent bonds share electrons (H2O, CH4). Metals share a sea of free electrons.
+avogadro,mole chemistry,molar mass|One mole is 6.022e23 particles (Avogadro's number). Moles n = mass / molar mass. 18 g of water is about one mole.
+isotope,radiocarbon|Isotopes are atoms of one element with different neutron counts, e.g. carbon-12 and carbon-14. Carbon-14 is used to date organic remains up to about 50,000 years old.
+half life,radioactive decay|Half-life is the time for half of a radioactive sample to decay: N = N0 * (1/2)^(t/T). Carbon-14 has about 5,730 years.
+plate tectonics,continental drift|Earth's crust is split into plates moving a few cm per year. Their edges cause earthquakes, volcanoes and mountain building such as the Himalaya.
+layers of the earth,earth layers,earth core|Crust (thin, to ~70 km), mantle (~2,900 km, slowly flowing rock), liquid outer core and solid iron-nickel inner core at about 5,200 C.
+rock cycle,igneous rock,sedimentary rock,metamorphic rock|Igneous rock forms from cooled magma, sedimentary from compressed sediment, metamorphic from heat and pressure changing existing rock. Over time rocks cycle between all three.
+ozone layer|The ozone layer in the stratosphere (15-35 km up) absorbs most harmful UV-B and UV-C. CFCs damaged it; the Montreal Protocol (1987) phased them out and it is slowly recovering.
+carbon cycle|Carbon moves between air (CO2), plants, animals, soil, oceans and rocks. Photosynthesis removes CO2; respiration, decay and burning fossil fuels return it.
+natural selection,darwin|Darwin (1859, On the Origin of Species): individuals whose inherited traits suit their environment survive and reproduce more, so populations change over generations.
+mitosis,meiosis|Mitosis makes two identical body cells for growth and repair. Meiosis makes four genetically different sex cells with half the chromosomes.
+chromosomes,human genome|Humans have 46 chromosomes (23 pairs) and roughly 20,000 protein-coding genes. One pair decides sex: XX or XY.
+enzymes|Enzymes are protein catalysts that speed up reactions. Each fits a specific substrate (lock and key) and works best at its own temperature and pH.
+antibiotics|Antibiotics fight bacteria, not viruses. Take the full course a doctor prescribes; misuse breeds resistant bacteria.
+fever,body temperature|Normal body temperature is about 36.1-37.2 C. A fever is generally 38 C or higher. See a doctor for a high or lasting fever, and quickly for babies.
+algebraic identities,special products,binomial|(a+b)^2 = a^2+2ab+b^2; (a-b)^2 = a^2-2ab+b^2; (a+b)(a-b) = a^2-b^2; (a+b)^3 = a^3+3a^2b+3ab^2+b^3.
+trig identities,trigonometric identities|sin^2 x + cos^2 x = 1; tan x = sin x / cos x; sin 2x = 2 sin x cos x; cos 2x = cos^2 x - sin^2 x. sin 30 = 1/2, sin 45 = sqrt2/2, sin 60 = sqrt3/2.
+law of sines,law of cosines|Law of sines: a/sin A = b/sin B = c/sin C. Law of cosines: c^2 = a^2 + b^2 - 2ab cos C (reduces to Pythagoras when C = 90).
+area formulas|Rectangle l*w; triangle 1/2*b*h; parallelogram b*h; trapezoid (a+b)/2*h; circle pi*r^2. Ask me: area of circle radius 5.
+volume formulas|Cube a^3; box l*w*h; cylinder pi*r^2*h; cone 1/3*pi*r^2*h; sphere 4/3*pi*r^3; pyramid 1/3*base*h.
+geometric series,geometric sequence|Terms a, ar, ar^2... Sum of n terms = a(1-r^n)/(1-r). If |r| < 1 the infinite sum is a/(1-r). Try: sum of 2^x from 0 to 10 (use x)
+gauss sum,sum of integers|1+2+...+n = n(n+1)/2. Gauss used it as a boy: 1..100 = 5050. Try: sum of x from 1 to 100
+simple interest,loan,mortgage,emi|Simple interest I = P*r*t. Loan payment M = P*r/(1-(1+r)^-n) with monthly rate r and n payments. Try: loan 10000 5% 3 years
+normal distribution,bell curve|The bell curve is symmetric around the mean. About 68% of values lie within 1 standard deviation, 95% within 2, 99.7% within 3. Try: std dev of 2 4 4 4 5 5 7 9
+bayes theorem,conditional probability|P(A|B) = P(B|A)*P(A)/P(B). Example: a rare disease test is positive; the chance you truly have it depends on how rare the disease is, not just test accuracy.
+big o,time complexity|Big O describes how run time grows with input n: O(1) constant, O(log n) binary search, O(n) scan, O(n log n) good sorts, O(n^2) nested loops, O(2^n) brute force.
+sorting algorithms,bubble sort,quicksort,merge sort|Bubble sort O(n^2) is simple. Merge sort and quicksort are O(n log n) on average. Quicksort picks a pivot and partitions; merge sort splits, sorts and merges.
+binary search|On a sorted list, check the middle, discard the half that cannot hold the target, repeat. It takes O(log n) steps: about 20 for a million items.
+git,version control|Git tracks changes: git init, git add, git commit -m "msg", git status, git log, git branch, git merge, git push, git pull.
+http status codes,404 error|200 OK, 301 moved permanently, 403 forbidden, 404 not found, 500 server error, 503 unavailable.
+ip address,dns,tcp udp|An IP address identifies a device on a network (IPv4 like 192.168.0.1). DNS turns names into IPs. TCP is reliable and ordered; UDP is faster but may drop packets.
+ascii,unicode,utf-8|ASCII has 128 characters (A = 65, a = 97). Unicode covers over 150,000 characters; UTF-8 encodes them in 1-4 bytes and keeps ASCII unchanged.
+rgb color,hex color|Colors mix red, green, blue (0-255 each). Hex #RRGGBB: #FF0000 red, #00FF00 green, #0000FF blue, #FFFFFF white, #000000 black.
+responsible hacking,legal flipper,is flipper legal|Only test radio, NFC, RFID, infrared or BadUSB on devices and systems you own or have clear permission to test. Copying someone else's card or jamming signals can be illegal.
+qflipper,update firmware flipper|Update through qFlipper on a PC, or use the Momentum web updater. Back up your SD card first.
+world population|Roughly 8 billion people. The most populous countries are India and China, then the USA, Indonesia and Pakistan.
+largest countries,biggest country|By area: Russia, Canada, USA, China, Brazil, Australia, India. Vatican City is the smallest country.
+deepest ocean,mariana trench|The Mariana Trench in the Pacific is about 10,900 m deep, deeper than Everest is tall.
+equator,latitude,longitude,prime meridian|Latitude measures north-south from the equator (0), longitude east-west from the prime meridian (0, through Greenwich). Budapest is about 47.5 N, 19 E.
+european union,eu|The EU is a political and economic union of 27 countries. Hungary joined in 2004 and still uses the forint, not the euro.
+united nations,un,nato|The UN was founded in 1945 and has 193 member states. NATO is a defence alliance from 1949; Hungary joined in 1999.
+berlin wall|Built in 1961 to divide East and West Berlin; it fell on 9 November 1989, and Germany reunified in 1990.
+space race,sputnik,gagarin|Sputnik 1 (1957) was the first satellite. Yuri Gagarin became the first human in space in 1961. Apollo 11 landed humans on the Moon in 1969.
+international space station,iss|The ISS orbits about 400 km up at roughly 28,000 km/h, circling Earth every ~90 minutes. It has been continuously crewed since November 2000.
+james webb,jwst,hubble|Hubble (1990) sees visible and UV light from Earth orbit. James Webb (launched Dec 2021) looks in infrared with a 6.5 m mirror, about 1.5 million km away at L2.
+exoplanets|Exoplanets orbit other stars. Thousands have been confirmed, found mostly by the transit method (a star dimming) and wobble measurements.
+neutron star,pulsar,supernova|A supernova is a massive star's explosive death. What remains can be a neutron star, as dense as an atom's nucleus, or a black hole. Pulsars are spinning neutron stars sending beams.
+active voice,passive voice|Active: The dog chased the ball. Passive: The ball was chased by the dog. Prefer active for clarity; use passive when the doer is unknown or unimportant.
+introduction,how to start an essay|Start with a hook (question, fact, short story), give brief background, then end with your thesis. Keep it to about 10% of the essay.
+conclusion,how to end an essay|Restate the thesis in new words, summarise the main points, then finish with a closing thought: why it matters or what comes next. Add no new arguments.
+topic sentence|A topic sentence opens a paragraph and states its single main idea. The rest of the paragraph proves it with evidence and explanation.
+plagiarism,reliable sources|Plagiarism is presenting others' words or ideas as yours. Quote or paraphrase and cite. Reliable sources: peer-reviewed papers, official statistics, established encyclopedias; check author and date.
+logical fallacies|Common ones: ad hominem (attacking the person), straw man (distorting an argument), false dilemma (only two options), slippery slope, appeal to authority, circular reasoning.
+pomodoro,pomodoro technique|Work 25 minutes with full focus, break 5 minutes; after four rounds take 15-30 minutes. Remove your phone from sight while the timer runs.
+spaced repetition,active recall|Test yourself instead of rereading, and review at growing gaps (1, 3, 7, 14, 30 days). Flashcards work well for facts and vocabulary.
+cornell notes,note taking|Cornell method: split the page into a notes column, a cues/questions column and a summary strip. After class write questions, then cover the notes and quiz yourself.
+scrambled eggs|Whisk 2-3 eggs with a pinch of salt. Cook in butter on low heat, stirring gently until just set but still glossy; they keep cooking off the heat.
+tomato sauce|Fry chopped onion and garlic in olive oil, add canned tomatoes, salt and a pinch of sugar, simmer 20-30 min, finish with basil.
+quantum entanglement|Two particles can become linked so measuring one instantly correlates with the other's state, no matter the distance. It cannot send information faster than light (no usable signal), but it is real and used in quantum computing and cryptography.
+hash table,hashmap|A hash table stores key-value pairs by running the key through a hash function to pick a slot (bucket), giving average O(1) lookup, insert and delete. Collisions (two keys, same slot) are handled by chaining or probing to the next free slot.
+bitcoin|Bitcoin is a decentralized digital currency: transactions are broadcast to a peer-to-peer network and bundled into blocks, chained together (the blockchain) and secured by proof-of-work mining. No central bank issues it; supply is capped at 21 million coins.
+blockchain|A blockchain is a chain of blocks, each holding transactions and a cryptographic hash of the previous block, so changing any past block breaks every hash after it. Many independent copies (nodes) must agree, making tampering impractical without controlling most of the network.
+schrodingers cat|A thought experiment: a sealed box has a cat and a device that may or may not trigger based on a random quantum event. Until observed, quantum mechanics describes the cat as a superposition of alive and dead, illustrating how strange quantum rules look at everyday scale.
+theory of relativity|Special relativity (1905): the speed of light is constant for everyone, so time and length change depending on your speed relative to something else. General relativity (1915): gravity is matter curving spacetime, not a force pulling across it - this is why GPS clocks must be corrected.
+why do we yawn|Yawning is linked to brain cooling and arousal/alertness regulation, and often spreads socially (contagious yawning) possibly tied to empathy. It is not mainly about lacking oxygen, despite the old myth.
+deja vu|Deja vu is the feeling of having already experienced something new, thought to come from a brief mismatch or glitch in how the brain tags memories as new versus familiar - common, usually harmless, more frequent when tired or stressed.
+lock picking basics|A pin tumbler lock has spring-loaded pin stacks at the shear line; turning the plug slightly with tension creates a ledge so pins bind one at a time, letting a pick set each pin at the shear line (single pin picking) or rake several at once.
+faraday cage|A Faraday cage is a conductive enclosure (mesh or solid metal) that blocks external static and radio fields by redistributing charge on its surface, which is why a metal box (or an RFID-blocking sleeve) can stop a card or key fob from being read.
+man in the middle attack,mitm|A man-in-the-middle attack secretly intercepts communication between two parties who believe they are talking directly to each other, letting the attacker read or alter traffic. HTTPS/TLS defends against it by verifying the server's certificate.
+tor browser,tor network|Tor routes traffic through at least three volunteer-run relays with layered encryption (like an onion), so no single relay knows both who you are and what site you are visiting. It slows browsing but protects against simple traffic tracing.
+vpn|A VPN encrypts your traffic and tunnels it to a server you trust, hiding your activity from your local network/ISP and making you appear to browse from the VPN server's location. It does not make you anonymous to the VPN provider itself.
+antivirus how it works|Traditional antivirus matches files against known malware signatures and flags matches. Modern tools add heuristics and behavior monitoring (watching what a program actually does at runtime) to catch new, unseen malware that has no signature yet.
+ransomware|Ransomware encrypts a victim's files and demands payment (often cryptocurrency) for the decryption key. Best defenses are offline/offsite backups tested regularly, patched software, and not opening unexpected attachments or links.
+zero day|A zero-day is a software vulnerability unknown to the vendor, so there is no patch yet - "zero days" since it was discovered by defenders. A zero-day exploit is code that actually takes advantage of it before a fix ships.
+social engineering|Social engineering attacks the human instead of the software: phishing emails, pretexting (inventing a false but plausible story), baiting, or impersonating IT support to get someone to hand over credentials or access.
+sql injection|SQL injection happens when user input is pasted straight into a database query instead of being parameterized, letting an attacker inject their own SQL (e.g. entering `' OR '1'='1`) to bypass checks or dump data. Fix: parameterized queries/prepared statements, never string-concatenated SQL.
+cross site scripting,xss|XSS happens when a website shows user input back as HTML/JS without escaping it, letting an attacker inject a script that runs in other visitors' browsers (e.g. to steal session cookies). Fix: escape/encode output and use a Content-Security-Policy.
+two factor authentication,2fa|2FA requires a second proof of identity beyond your password - usually something you have (a code app, SMS, or hardware key like a YubiKey). It stops most account takeovers even if the password alone leaks, except for SIM-swap attacks on SMS codes.
+speed of a bullet|Typical handgun bullets travel roughly 300-450 m/s (1,000-1,500 ft/s); rifle rounds are faster, often 700-1,000+ m/s. For comparison, the speed of sound is about 343 m/s, so many rifle bullets are supersonic and you hear the crack before any delayed muzzle sound.
+formula 1 car speed|F1 cars reach roughly 340-370 km/h (210-230 mph) on long straights and corner at well over 5g, with braking forces that can exceed 5g deceleration - far beyond what a road car's tires and aero can manage.
+dark matter|Dark matter is matter that does not emit, absorb or reflect light, inferred only from its gravity - e.g. galaxies rotate as if they have far more mass than the visible stars account for. It makes up roughly 27% of the universe's mass-energy; nobody has detected it directly yet.
+age of the universe|The universe is about 13.8 billion years old, estimated from the cosmic microwave background (the Big Bang's afterglow) and the observed expansion rate (Hubble's law).
+RSA encryption|RSA is public-key cryptography: you publish a public key (used to encrypt or verify) and keep a private key secret (used to decrypt or sign). It relies on how hard it is to factor the product of two large prime numbers back into those primes.
+caesar cipher|A Caesar cipher shifts every letter by a fixed number of positions in the alphabet (e.g. shift 3: A becomes D). It is trivially broken by trying all 25 shifts or frequency analysis - taught as the simplest substitution cipher, not used for real security.
+password security tips|Use a unique, long passphrase per site (a password manager makes this practical), enable 2FA where offered, and never reuse a password across important accounts - most big account breaches spread because of reused passwords, not clever cracking.
+how brute force attack works|A brute-force attack tries passwords or keys one by one (or every combination) until one works. Long, random passwords make this impractically slow; rate-limiting and lockouts on login attempts blunt online brute-forcing specifically.
+jamming,signal jamming|Jamming floods a radio band with noise or a strong signal so legitimate receivers cannot pick out the real transmission. It is illegal to jam licensed spectrum in most countries because it can block emergency and other critical communications.
+replay attack|A replay attack captures a valid transmission (like a fixed-code remote signal or an auth token) and resends it later to repeat the action. Rolling codes, timestamps and nonces (one-time-use values) defend against it by making each valid message usable only once.
+subnet mask|A subnet mask marks which bits of an IP address are the network part versus the host part, e.g. 255.255.255.0 (/24) means the first 3 numbers identify the network and the last identifies the device, giving 254 usable host addresses.
+latency|Latency is the delay between sending data and it arriving, usually measured in milliseconds (ping time). Bandwidth is how much data per second fits through; a link can have high bandwidth but still feel slow if latency is high.
+bandwidth|Bandwidth is the maximum data rate a link can carry, in bits per second (e.g. Mbps, Gbps). It's the pipe's width, not its speed of response - see latency for the delay side.
+how motors work|An electric motor runs current through a coil inside a magnetic field; the field pushes the coil (Lorentz force), and a commutator or electronic switching keeps reversing current at the right moment so the push keeps the shaft spinning instead of settling in place.
+torque|Torque is a rotational force: torque = force x distance from the pivot (lever arm). More torque means more twisting power at the axle, which is why low gears give more torque but less top speed than high gears.
+why does ice float|Water expands when it freezes because its molecules lock into a hexagonal crystal lattice with more open space than liquid water, making ice about 9% less dense - so it floats instead of sinking like most frozen liquids.
+surface tension|Surface tension comes from water molecules pulling on each other (hydrogen bonds) more strongly than on the air above, making the surface act like a stretched elastic skin - strong enough to support a water strider or a floating needle.
+how solar panels work|Sunlight hitting a silicon photovoltaic cell knocks electrons loose; the cell's internal structure (a p-n junction) forces those freed electrons to flow in one direction, producing DC current that an inverter converts to usable AC.
+fuse|A fuse is a thin wire or strip designed to melt and break the circuit if current exceeds its rating, protecting wiring and devices from overheating or fire. Unlike a circuit breaker, a blown fuse must be replaced, not just reset.
+how a microwave works|A microwave oven generates 2.45 GHz radio waves with a magnetron; that frequency makes water molecules in food flip back and forth rapidly, and that friction between molecules generates heat throughout the food, not just on the surface.
+refraction|Refraction is light bending when it passes between materials of different density (e.g. air to water) because light changes speed in each material. It's why a straw looks bent in a glass of water and why lenses can focus light.
+why is the sky red at sunset|At sunset, sunlight passes through far more atmosphere than at noon, so most of the blue light scatters away before reaching your eyes (Rayleigh scattering), leaving the longer red and orange wavelengths to dominate.
+palindrome|A palindrome reads the same forwards and backwards, ignoring spaces/punctuation/case: "racecar", "madam", "a man a plan a canal panama". Checking one just compares the string to its reverse.
+queue,queue data structure|A queue is first-in, first-out (FIFO): items are added at the back (enqueue) and removed from the front (dequeue), like a line at a checkout. Used for task scheduling, print jobs and breadth-first search.
+stack data structure|A stack is last-in, first-out (LIFO): the last item pushed on is the first one popped off, like a stack of plates. Used for function call tracking (the call stack), undo history and depth-first search.
+linked list|A linked list is a chain of nodes, each holding a value and a pointer to the next node, so inserting or removing in the middle is O(1) once you're there (unlike an array, which must shift elements). Lookup by index is slower than an array, O(n).
+compiler vs interpreter|A compiler translates the whole program into machine code ahead of time, producing a standalone executable (C, Rust). An interpreter reads and runs the source line by line at execution time (classic Python, Bash). Many languages (modern Python, Java) blend both with bytecode and a virtual machine.
+firewall|A firewall filters network traffic by rules (allowed/blocked ports, IPs, protocols), sitting between a trusted network and an untrusted one. A basic firewall just checks packet headers; a stateful one tracks whole connections for smarter filtering.
+proxy,network proxy|A proxy sits between you and the internet, forwarding your requests and returning the responses - used to hide your IP, cache content, filter traffic, or bypass geographic or network restrictions. A VPN is a proxy that also encrypts the whole connection.
+packet sniffer|A packet sniffer (e.g. Wireshark) captures network traffic passing through an interface so you can inspect it. On a switched network you normally only see your own traffic unless you're on a hub, use ARP spoofing, or enable port mirroring.
+wardriving|Wardriving is driving or walking around with a receiver logging nearby wireless networks (Wi-Fi SSIDs, sometimes Bluetooth or sub-GHz signals) and their locations, originally used to map open or weakly secured access points.
+brute force pin attack|A PIN brute force tries every combination in order (0000-9999 for a 4-digit PIN is only 10,000 tries). Lockout after a few wrong attempts, increasing delays, and wipe-after-N-tries policies are what actually stop this in practice, not PIN length alone.
+car alarm,how car alarms work|Most car alarms watch sensors (door/hood/trunk switches, a shock/tilt sensor, sometimes glass-break microphones) and sound a siren plus flash lights if one trips without the key fob disarming it first via a coded radio signal.
+keyless entry,remote keyless|Keyless entry fobs send a coded radio signal (often rolling code, 300-900 MHz) to unlock/start the car. Passive keyless (walk-up-and-go) constantly exchanges a short-range low-frequency challenge/response with the fob, which relay attacks exploit by extending that range.
+can bus|CAN bus (Controller Area Network) is how a modern vehicle's computers (engine, brakes, dashboard, etc.) talk to each other over two twisted wires, broadcasting short messages that any connected module can read - fast and reliable but with no built-in authentication by default.
+obd2|OBD-II is the standard diagnostic port (usually under the dashboard) that exposes a car's CAN bus for reading engine codes, sensor data and performance info with a scan tool - the same port security researchers use to probe vehicle networks.
+smart lock|Smart locks replace or add to a mechanical lock with an electronic actuator controlled over Bluetooth, Wi-Fi or Zigbee, often via a phone app or keypad. Security depends entirely on the app/firmware and pairing process - a physically strong deadbolt can still have a weak digital front door.
+skimmer,card skimmer|A skimmer is a hidden device fitted over or inside a card reader (ATM, gas pump) that copies a card's magnetic stripe data, sometimes paired with a hidden camera or fake keypad to also capture the PIN. Chip and tap payments are far harder to skim than a swipe.
+dictionary attack|A dictionary attack tries real words and known common/leaked passwords instead of every possible combination, which is why "password123" falls in seconds while a random 16-character passphrase does not - it isn't in anyone's dictionary.
+steganography|Steganography hides data inside other data so its presence isn't obvious - e.g. tweaking the least significant bits of an image's pixels to embed a message. Unlike encryption, which scrambles data openly, steganography tries to hide that there is a secret at all.
+checksum error|A checksum error means the data's checksum (or CRC) computed on arrival doesn't match the one sent with it, meaning the data was corrupted in transit or storage. The receiver typically discards it and asks for a resend rather than trusting damaged data.
+overclocking|Overclocking runs a chip above its rated clock speed for more performance, usually needing more voltage and better cooling to stay stable, and it can shorten the chip's lifespan or cause crashes if pushed past what the silicon and cooling can handle.
+impedance|Impedance is AC resistance: it includes plain resistance plus the extra opposition from capacitors and inductors, which varies with frequency (unlike plain resistance). Matching impedance between a source and load (e.g. speaker to amplifier) avoids wasted or reflected signal power.

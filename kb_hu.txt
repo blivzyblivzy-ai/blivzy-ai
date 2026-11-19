@@ -1,0 +1,262 @@
+pitagorasz,derekszogu haromszog|Pitagorasz-tetel: derekszogu haromszogben a^2 + b^2 = c^2 (c az atfogo). Pelda: 3 es 4 oldalhoz c = 5. Irj: hypotenuse 3 4
+feny sebessege,fenysebesseg|Vakuumban kb. 299 792 458 m/s (~300 000 km/s). Tomeggel rendelkezo test nem erheti el.
+forraspont,fagyaspont|A viz tengerszinten 100 C-on forr es 0 C-on fagy. Magasabban alacsonyabb a forraspont.
+fotoszintezis|A novenyek fenybol, vizbol es CO2-bol glukozt es oxigent allitanak elo: 6CO2 + 6H2O -> C6H12O6 + 6O2. A kloroplasztiszban zajlik.
+gravitacio,nehezseg,nehezsegi gyorsulas|A nehezsegi gyorsulas a Fold felszinen kb. 9,81 m/s^2. Newton: F = G*m1*m2/r^2.
+esszet,esszet irni,essze|Esszeszerkezet: bevezetes (felvezetes + teza), 3 targyalo bekezdes (allitas, bizonyitek, magyarazat), befejezes. Sablonert irj: irj esszet <tema>.
+derivalt,derivalas|Derivalasi szabalyok: (x^n)' = n*x^(n-1); szorzat: (uv)' = u'v + uv'; lancszabaly: f(g(x))' = f'(g(x))*g'(x).
+integral,integralas|Alapintegralok: x^n dx = x^(n+1)/(n+1) + C; 1/x dx = ln|x| + C; e^x dx = e^x + C.
+kor terulete,kor kerulete|Kor: terulet = pi*r^2, kerulet = 2*pi*r. Irj: area of circle radius 5
+masodfoku,masodfoku egyenlet|ax^2+bx+c=0 megoldasa: x = (-b +- gyok(b^2-4ac)) / (2a). Diszkriminans D = b^2-4ac. Probald: quadratic 1 -3 2
+kek az eg,miert kek,kek eg|Az eg azert kek, mert a levego a rovid hullamhosszu (kek) fenyt jobban szorja, mint a hosszu (voros) fenyt. Ez a Rayleigh-szoras.
+dns,dezoxiribonukleinsav|A DNS kettos csavarvonal, nukleotidokbol (A, T, G, C) all, es a oroklodo informaciot tarolja. Az A a T-vel, a G a C-vel parosul.
+atom|Az atom magbol (protonok + neutronok) es korulotte levo elektronokbol all. A protonok szama hatarozza meg az elemet.
+newton,mozgastorvenyek|1) A test megtartja mozgasallapotat, ha nem hat ra ero. 2) F = m*a. 3) Hatas-ellenhatas: minden erohoz egyenlo, ellentetes ero tartozik.
+bolygok,naprendszer|A 8 bolygo a Naptol szamitva: Merkur, Venusz, Fold, Mars, Jupiter, Szaturnusz, Uranusz, Neptunusz. A Pluto torpebolygo.
+nap,a nap|A Nap egy G tipusu csillag, kb. 4,6 milliard eves, felszine kb. 5500 C. Fenye kb. 8 perc 20 mp alatt er a Foldre.
+hold,a hold|A Hold kb. 384 400 km-re van, gravitacioja a Fold 1/6-a, 27,3 naponta kori meg minket.
+fold kora,hany eves a fold|A Fold kb. 4,54 milliard eves.
+foldrajz,magyarorszag,budapest|Magyarorszag Kozep-Europaban fekszik, lakossaga kb. 9,6 millio, fovarosa Budapest a Duna partjan. Penznem: forint (HUF).
+foldreszek|A 7 foldresz: Afrika, Antarktisz, Azsia, Ausztralia, Europa, Eszak-Amerika, Del-Amerika.
+legmagasabb hegy,mount everest|A Mount Everest a legmagasabb hegy a tengerszint folott: 8849 m.
+vizkoerforgas,viz korforgasa|Parolgas -> lecsapodas (felhok) -> csapadek -> osszegyules -> ujra. A Nap hajtja.
+trigonometria,szinusz,koszinusz|SOH-CAH-TOA: sin = szemkozti/atfogo, cos = melletti/atfogo, tan = szemkozti/melletti. sin^2 + cos^2 = 1.
+ohm,ohm torveny,ellenallas|Ohm torvenye: U = I*R. Teljesitmeny: P = U*I. Sorosan az ellenallasok osszeadodnak.
+szazalek,szazalekszamitas|X% of Y = X*Y/100. Valtozas % = (uj - regi) / regi * 100. Probald: 15% of 80
+prim,primszam|A primszamnak pontosan ket osztoja van: 1 es onmaga. Elso primek: 2, 3, 5, 7, 11, 13, 17, 19. Irj: is 97 prime
+tortek,tort|Osszeadas kozos nevezovel; szorzas: szamlalo*szamlalo / nevezo*nevezo; osztas: szorzas a reciprokkal.
+hatvany,hatvanyozas|a^m * a^n = a^(m+n); a^m / a^n = a^(m-n); (a^m)^n = a^(m*n); a^0 = 1.
+pi|A pi kb. 3,14159265, a kor kerulete es atmeroje hanyadosa. Irracionalis szam.
+fibonacci|Fibonacci-sorozat: minden szam az elozo ketto osszege: 0, 1, 1, 2, 3, 5, 8, 13, 21. Irj: fibonacci 30
+kettes szamrendszer,binaris|A binaris szamrendszer alapja 2 (0 es 1). Helyiertekek: 128 64 32 16 8 4 2 1. Irj: binary of 200
+szamitogep,processzor|A processzor utasitasokat hajt vegre. A Flipper Zero STM32WB55 ARM Cortex-M4, 64 MHz-en, kb. 256 KB RAM-mal.
+jelszo,eros jelszo|Az eros jelszo hosszu (14+ karakter), minden oldalon egyedi, veletlen, jelszokezelovel es ketlepcsos azonositassal.
+mesterseges intelligencia,ai,chatgpt,gpt|A mesterseges intelligencia olyan szoftver, ami emberi kepessegeket (tanulas, nyelv, latas) utanoz. En egy kis offline segito vagyok, nem felho-modell.
+flipper zero,flipper|A Flipper Zero hordozhato multieszkoz hardveres kiserletezoknek: sub-GHz radio, 125 kHz RFID, NFC, infravoros, iButton, GPIO, USB, Bluetooth. Csak sajat eszkozon hasznald!
+sub-ghz,subghz|A Flipper sub-GHz radioja taviranyitokhoz es szenzorokhoz valo. Az adas szabalyai orszagonkent masok, csak sajat eszkozt hasznalj.
+nfc|Az NFC 13,56 MHz-es kozeli vezetek nelkuli kommunikacio. A Flipper sok kartyat tud olvasni, nehanyat emulalni. A vedett kartyak nem masolhatok.
+infravoros,taviranyito|A Flipper meg tudja tanulni es el tudja kuldeni az infravoros taviranyito jeleket, es van univerzalis taviranyito konyvtara.
+sebesseg formula,sebesseg|sebesseg = ut / ido. Atrendezve: ut = sebesseg*ido, ido = ut/sebesseg. Irj: convert 90 kmh to mph
+homerseklet,celsius,fahrenheit|F = C*9/5 + 32.  C = (F - 32)*5/9.  K = C + 273,15. Irj: 100 f to c
+fozz rizst,rizs fozes|Moss meg a rizst. 1 csesze rizshez kb. 2 csesze viz kell: forrald fel, fedd le, fozd kis lagyuk langgal ~15 percig, majd pihentesd 5 percig.
+tojas fozes,fozott tojas|Lagy: 6 perc, kozepes: 8 perc, kemeny: 10-12 perc forro vizben, utana hideg vizben hutsd le.
+alvas,hany ora alvas|A felnottek tobbsege 7-9 ora alvast igenyel, a tinik 8-10 oraig. Rendszeres idopontok, kepernyo nelkuli lefekves es hideg, sotet szoba segit.
+tanulas,hogyan tanuljak|Tanulj 25 perces blokkokban 5 perc szunettel, kerdezd ki magad ujraolvasas helyett, osszd el a tanulast napokra, es aludj eleget.
+vitaminok,vitamin|A vitaminok kis mennyisegben szukseges taplalekok: A (latas), B (energia), C (immunrendszer), D (csontok), K (veralvadas). Valtozatos etrend altalaban fedezi.
+rubik kocka,rubik|A Rubik-kockat 1974-ben talalta fel Rubik Erno magyar epiteszprofesszor. 43 trillio allasa van, de legfeljebb 20 lepesben megoldhato.
+vilaghaboru,masodik vilaghaboru|A II. vilaghaboru 1939-tol 1945-ig tartott. Europaban 1945. majus 8-an, Azsiaban szeptemberben ert veget.
+elso vilaghaboru|Az I. vilaghaboru 1914-tol 1918-ig tartott, a fegyverszunet 1918. november 11-en lepett eletbe.
+hold leszallas,apollo 11|Az Apollo 11 1969. julius 20-an szallt le a Holdon. Neil Armstrong es Buzz Aldrin setalt rajta.
+szokev,szokev ev|A szokoev 366 napos. Szabaly: oszthato 4-gyel, kiveve az evszazadokat, hacsak nem oszthatok 400-zal. A 2000 es a 2024 szokoev, az 1900 nem.
+idozona,idozonak|A Fold kb. 24 fo idozonara oszlik. Magyarorszag CET (UTC+1), nyaron CEST (UTC+2) szerint el.
+segelyhivo,vesz,veszszam|Segelyhivo: 112 egesz Europaban es Magyarorszagon. USA-ban 911, az Egyesult Kiralysagban 999.
+oxigen|Az oxigen a levego kb. 21%-a, szukseges a legzeshez es egeshez. Rendszama 8.
+szen-dioxid,co2|A CO2 egy szen- es ket oxigenatomos gaz. A novenyek elnyelik, a legzes es egetes kibocsatja. Uvegahaz-gaz.
+klimavaltozas,felmelegedes|A fosszilis tuzelanyagok egetese novel az uvegahaz-gazokat, amelyek visszatartjak a hot es felmelegitik a bolygot. Megoldas: tiszta energia, hatekonysag, erdok.
+evolucio,termeszetes szelekcio|Az evolucio az oroklodo tulajdonsagok valtozasa generaciokon at. Termeszetes szelekcio: a kornyezethez jobban illeszkedok nagyobb eselyel maradnak fenn.
+mitokondrium|A mitokondriumok termelik a sejt ATP-jenek (energiajanak) nagy reszet.
+csontok,csontvaz|A felnott embernek 206 csontja van. A combcsont a leghosszabb.
+sziv,szivdobogas|Az emberi sziv naponta kb. 100 000-szer ver, es percenkent kb. 5 liter vert pumpal.
+hungarikum,magyar nyelv|A magyar nyelv finnugor nyelv, kb. 13 millio beszelovel. Szoalkotasa agglutinalo: toldalekokkal epul.
+penz,koltsegvetes|Egyszeru koltsegvetes: 50% szukseglet, 30% kivansag, 20% megtakaritas. Eloszor 3-6 havi tartalekot gyujts. Ez altalanos tajekoztatas, nem penzugyi tanacs.
+mit tudsz,mire vagy kepes|Offline segito vagyok: matek, egyenletek, atvaltasok, szamtani eszkozok, irasi sablonok, kisbeszelgetes es keresheto tudastar. Irj: segitseg.
+magyarorszag,magyarorszag fovarosa,fovaros|Magyarorszag fovarosa Budapest. Lakossaga kb. 9,6 millio, teruelete ~93 000 km2. Szomszedai: Szlovakia, Ukrajna, Romania, Szerbia, Horvatorszag, Szlovenia, Ausztria.
+budapest|Budapest Magyarorszag fovarosa; Buda, Pest es Obuda 1873-ban egyesult. A Duna szeli ketfele, lakossaga kb. 1,7 millio. Hires: Parlament, Budai var, Szechenyi furdo, Lanchid.
+duna|A Duna Europa masodik leghosszabb folyoja (~2850 km), 10 orszagon folyik at. Magyarorszagon kb. 417 km a hossza. Budapestet ketfele osztja.
+tisza|A Tisza a Duna legnagyobb mellekfolyoja, hossza ~966 km, ebbol kb. 600 km Magyarorszagon folyik. A Tisza-to (Kiskore) Magyarorszag legnagyobb mesterseges tava.
+balaton|A Balaton Kozep-Europa legnagyobb tava: ~594 km2, atlagos melysege kb. 3 m. Neve: a magyar tenger. Nyaron kb. 25-27 C a viz.
+kekes,magyarorszag legmagasabb csucsa|Magyarorszag legmagasabb csucsa a Kekes a Matraban, 1014 m.
+szent istvan,istvan kiraly,elso kiraly|Szent Istvan (kb. 975-1038) Magyarorszag elso kiralya, 1000-ben vagy 1001-ben koronaztak. Augusztus 20. az allamalapitas unnepe.
+honfoglalas|A magyarok honfoglalasa 895-896 korul tortent Arpad vezer idejeben, a Karpat-medenceben.
+1848,marcius 15,szabadsagharc|1848. marcius 15-en kezdodott a magyar forradalom es szabadsagharc. Vezeto alakok: Kossuth Lajos, Petofi Sandor, Szechenyi Istvan. Nemzeti unnep.
+1956,forradalom 1956|Az 1956-os forradalom oktober 23-an kezdodott a szovjet megszallas es a diktatura ellen. Nemzeti unnep.
+trianon|Az 1920-as trianoni bekeszerzodes az elso vilaghaboru utan Magyarorszag teruletenek mintegy ketharmadat csatolta mas orszagokhoz.
+nemzeti unnepek,unnepnapok|Magyar nemzeti unnepek: marcius 15. (1848), augusztus 20. (Szent Istvan), oktober 23. (1956). Tovabbi unnepek: ujev, majus 1., karacsony.
+himnusz|A Himnusz szoveget Kolcsey Ferenc irta 1823-ban, zenejet Erkel Ferenc szerezte 1844-ben.
+magyar nyelv|A magyar a finnugor nyelvcsalad tagja; legkozelebbi rokonai a hanti es manysi, a finn es az eszt tavolabbi rokon. Kb. 13 millio ember beszeli. ABC-je 44 betus.
+magyar abc|A magyar abc 44 betus. Kulonlegesek: cs, dz, dzs, gy, ly, ny, sz, ty, zs es az ekezetes maganhangzok.
+hangrend,melyhangu magashangu|Hangrend: melyhangu (a, o, u) es magashangu (e, i, umlautos o/u). A ragok a szo hangrendjehez igazodnak: haz-ban, kert-ben.
+szofajok|Szofajok: foneves, melleknev, szamnev, nevmas, ige, hatarozoszo, nevuto, kotoszo, igekoto, nevelo, mondatszo, indulatszo.
+magyar feltalalok,feltalalok|Magyar feltalalok: Rubik Erno (kocka), Biro Laszlo (golyostoll), Jedlik Anyos (dinamo-elv, szodaviz), Gabor Denes (hologram), Neumann Janos (szamitogep-architektura), Puskas Tivadar (telefonhirmondo).
+nobel dij,magyar nobel dijasok|Magyar Nobel-dijasok: Szent-Gyorgyi Albert (1937), Wigner Jeno (1963), Gabor Denes (1971), Kertesz Imre (2002), Kariko Katalin es Krausz Ferenc (2023), Krasznahorkai Laszlo (2025).
+puskas ferenc,aranycsapat|Puskas Ferenc (1927-2006) az Aranycsapat vezere. 1953-ban 6-3-ra nyertek Wembleyben Anglia ellen, 1952-ben olimpiai bajnokok lettek. A FIFA Puskas-dijat rola nevezte el.
+petofi,petofi sandor|Petofi Sandor (1823-1849) kolto, a forradalom ikonja. Muvei: Nemzeti dal, Szeptember vegen, Janos vitez. Valoszinuleg 1849-ben esett el Segesvarnal.
+arany janos|Arany Janos (1817-1882) kolto; Toldi-trilogia, Buda halala, balladak (Walesi bardok, Agnes asszony).
+jokai mor|Jokai Mor (1825-1904) regenyiro: A kokemeny ember fiai, Az arany ember, Egy magyar nabob.
+liszt ferenc|Liszt Ferenc (1811-1886) zeneszerzo es zongoramuvesz. Hires: Magyar rapszodiak, Les Preludes.
+bartok bela|Bartok Bela (1881-1945) zeneszerzo es nepzenekutato. Muvei: A kek szakallu herceg vara, Zene huros-, utohangszerekre es celestara.
+kodaly zoltan|Kodaly Zoltan (1882-1967) zeneszerzo, zenepedagogus. Muvei: Hary Janos, Psalmus Hungaricus. A Kodaly-modszer vilghiru.
+semmelweis,kezmosas|Semmelweis Ignac (1818-1865) orvos: felfedezte, hogy a kezmosas megelozi a gyermekagyi lazat. Az "anyak megmentoje".
+neumann janos|Neumann Janos (1903-1957) matematikus, a modern szamitogep (Neumann-elv) egyik megalkotoja. Dolgozott a jatekelmeletben es a kvantummechanikaban is.
+gulyas,gulyasleves|A gulyasleves magyar husleves: marhahus, hagyma, pirospaprika, burgonya, paradicsom, paprika, komeny. Kenyerrel jo.
+langos|A langos kelt teszta olajban kisutve; jon ra tejfol, sajt es fokhagyma. Nyari strand- es piaci klasszikus.
+tokaj,tokaji aszu|A Tokaji aszu vilghiru edes bor a Tokaj-Hegyaljarol (UNESCO vilagoroksegi borvidek). 
+palinka|A palinka gyumolcsparlat; torvenyileg csak Magyarorszagon termett gyumolcsbol, itt kell leparolni, erlelni es palackozni.
+unesco vilagoroksegi,vilagoroksegi helyszinek|Magyar UNESCO helyszinek: Budapest (Duna-part, Budai var), Hortobagy, Pannonhalmi Foapatsag, Tokaj, Holloko, Aggteleki karszt.
+naprendszer,bolygok sorrendje|A Naprendszer 8 bolygoja: Merkur, Venusz, Fold, Mars, Jupiter, Szaturnusz, Uranusz, Neptunusz. Pluto torpebolygo.
+jupiter,legnagyobb bolygo|A Jupiter a legnagyobb bolygo, tobb mint ketszer akkora tomeg, mint az osszes tobbi egyutt. A Nagy Voros Folt egy orias vihar.
+mars,voros bolygo|A Mars a Voros bolygo: ket holdja Phobos es Deimos, napja kb. 24,6 ora. A legmagasabb hegy a Naprendszerben itt van: Olympus Mons (~22 km).
+szaturnusz|A Szaturnusz gyuruirol hires, amik jegbol es kozetbol allnak. A legnagyobb holdja a Titan. Sukorusege kisebb a viznel.
+fekete lyuk|A fekete lyuk olyan terresz, ahol a gravitacio annyira eros, hogy a feny sem szokhet. Hatara az esemenyhorizont. Elso kepe 2019-ben keszult.
+relativitaselmelet,einstein|Einstein relativitaselmelete: a feny sebessege allando, ido es ter osszefugg, a gravitacio a ter gorbulete. Ismert keplet: E = m*c^2.
+csillagok,csillag|A csillagok plazmagomboek, magfuzioval termelnek energiat. Eletuk vegen voros oriasok, feher torpek, neutroncsillagok vagy fekete lyukak lehetnek.
+tejutrendszer,galaxis|A Tejutrendszer sporalgalaxis kb. 100-400 milliard csillaggal. A Naprendszer az Orion-karban van. A legkozelebbi nagy galaxis az Andromeda.
+holdfazisok,hold keringese,hold tavolsaga|A Hold ~384 400 km-re kering, 27,3 naponta keruli meg a Foldet. Fazisai: ujhold, novo, telihold, fogyo. Gravitacioja a foldinek kb. hatoda.
+napfogyatkozas,holdfogyatkozas|Napfogyatkozaskor a Hold a Nap es a Fold koze kerul; holdfogyatkozaskor a Fold arnyeka vetul a Holdra. Napfogyatkozast ne nezd vedoszemuveg nelkul!
+mount everest,legmagasabb hegy a vilagon|A Mount Everest 8849 m magas (Nepal/Kina hatar). A legmelyebb pont a Mariana-arok, kb. 11 km mely.
+kontinensek,foldreszek szama|7 kontinens: Azsia, Afrika, Eszak-Amerika, Del-Amerika, Antarktisz, Europa, Ausztralia/Oceania. A legnagyobb Azsia.
+ocean,oceanok|5 ocean van: Csendes-, Atlanti-, Indiai-, Deli-sarki- es Eszaki-Jeges-tenger. A Csendes-ocean a legnagyobb, a Fold feluletenek kb. harmada.
+leghosszabb folyo,nilus,amazonas|Leghosszabb folyo: a Nilus (~6650 km) es az Amazonas (~6400 km) nagysagrendje vitatott; legtobb vizet az Amazonas szallit.
+legnagyobb orszag,legkisebb orszag|Legnagyobb orszag teruletre: Oroszorszag. Legkisebb: Vatikan (~0,44 km2). Legtobb lakos: India es Kina nagysagrendben (valtozik).
+sivatag,szahara|Legnagyobb sivatag az Antarktisz, a legnagyobb forro sivatag a Szahara (~9 millio km2, Eszak-Afrika).
+vulkan,vulkankitores|A vulkan olyan nyilas a foldkergen, ahol magma tor ki. Magyarorszagon kialudt vulkanikus tanuhegyek: Badacsony, Somlo, Szent Gyorgy-hegy.
+foldrenges|A foldrenges a foldkereg hirtelen megrazkodasa. Erosseget magnitudoban merik (Richter-skala). Hullamai: P (longitudinalis) es S (transzverzalis).
+evszakok,evszakok oka|Az evszakokat a Fold tengelyenek ~23,5 fokos dolese okozza, nem a Naptol valo tavolsag.
+idojaras,eghajlat|Idojaras: pillanatnyi allapot. Eghajlat: sok evtizedes atlag. Magyarorszag mersekelt oveli, atmeneti eghajlatu.
+szivarvany|A szivarvany a napfeny torese es visszaverodese a vizcseppekben. Szinei: voros, narancs, sarga, zold, kek, indigo, lila.
+villam,mennydorges|A villam elektromos kisules; a fenyet hamarabb latod, mint a hangot. Tavolsag kb.: masodpercek szama / 3 = km.
+hang,hangsebesseg|A hang sebessege levegoben ~343 m/s (20 C), vizben ~1480 m/s; vakuumban nem terjed.
+feny,spektrum,lathato feny|A lathato feny hullamhossza ~380-750 nm. Szinek: lila (rovid) -> voros (hosszu). Az infravoros es ultraibolya szemmel nem lathato.
+atomszerkezet,proton,elektron|Atom: mag (proton + neutron) es korulotte elektronfelho. Proton +, elektron -, neutron semleges. A rendszam a protonok szama.
+periodusos rendszer,mengyelejev|A periodusos rendszert Mengyelejev rendezte 1869-ben. 118 ismert elem; pl. H (hidrogen), O (oxigen), Fe (vas), Au (arany).
+ph ertek,sav lug|pH 0-14: 7 semleges, alatta savas (citrom ~2), folotte lugos (szappan ~10).
+viz,h2o|A viz H2O. 4 C-on legsurubb; fagyaskor kitagul, ezert uszik a jeg. Az emberi test kb. 60%-a viz.
+halmazallapot,halmazallapotok|Halmazallapotok: szilard, folyekony, gaz, plazma. Valtasok: olvadas, fagyas, parolgas, lecsapodas, szublimacio.
+ero,newton torvenyek|Newton I.: tehetetlenseg. II.: F = m*a. III.: hatas-ellenhatas. Az ero merteke a newton (N).
+munka,teljesitmeny,energia|Munka W = F*s (J). Teljesitmeny P = W/t (W). Mozgasi energia = 1/2*m*v^2, helyzeti energia = m*g*h.
+elektromossag,aram,feszultseg|Az elektromos aram toltesek aramlasa. Egysegek: amper (A), volt (V), ohm (ellenallas), watt (W).
+mertekegysegek,si mertekegysegek|SI alapegysegek: meter (m), kilogramm (kg), masodperc (s), amper (A), kelvin (K), mol, kandela.
+sebesseg,sebesseg szamitasa|v = s/t (uthosszal per ido). 120 km 2 ora alatt = 60 km/h. 1 m/s = 3,6 km/h.
+szazalekszamitas,szazalek kiszamitasa|Resz = alap * szazalek / 100. Szazalek = resz/alap*100. Peldaul 15% of 80 = 12. Irj: 15 szazaleka 80
+haromszog terulete,haromszog|Haromszog: T = alap*magassag/2. Heron-kepletet: s = (a+b+c)/2, T = gyok(s*(s-a)*(s-b)*(s-c)). Szogek osszege 180 fok.
+teglatest,teglatest terfogata|Teglatest: V = a*b*c, felszin A = 2*(ab+bc+ac). Kocka: V = a^3, A = 6*a^2.
+henger terfogata,henger|Henger: V = pi*r^2*h, felszin A = 2*pi*r*(r+h). Probald: cylinder 3 5
+gomb terfogata,gomb|Gomb: V = 4/3*pi*r^3, felszin A = 4*pi*r^2. Probald: sphere volume 3
+kor kerulete|A kor kerulete K = 2*pi*r, terulete T = pi*r^2. Probald: area of circle radius 5
+logaritmus|log_a(x) = y azt jelenti: a^y = x. log(a*b) = log(a) + log(b). ln = e alapu logaritmus. Probald: log2 8
+faktorialis|n! = 1*2*...*n, peldaul 5! = 120; 0! = 1. Probald: fact 6
+szinusz,koszinusz,tangens|sin = szemkozti/atfogo, cos = melleki/atfogo, tan = szemkozti/melleki; sin^2 + cos^2 = 1.
+vektor,vektorok|Vektor: nagysag es irany. |v| = gyok(x^2+y^2). Skalaris szorzat: a*b = |a|*|b|*cos(szog).
+fuggveny,linearis fuggveny|Fuggveny: minden bemenethez pontosan egy kimenet tartozik. Linearis: y = m*x + b (m a meredekseg, b a tengelymetszet).
+valoszinuseg,valoszinusegszamitas|P = kedvezo esetek / osszes eset. Kockadobas: P(6) = 1/6. Fuggetlen esemenyek: P(A es B) = P(A)*P(B).
+atlag,median,modusz|Atlag = osszeg/darab. Median: rendezett sor kozepso eleme. Modusz: leggyakoribb ertek. Probald: atlag 4 8 15 16
+nevezetes azonossagok|(a+b)^2 = a^2 + 2ab + b^2; (a-b)^2 = a^2 - 2ab + b^2; a^2 - b^2 = (a-b)(a+b).
+egyenletrendszer|Egyenletrendszer: helyettesito vagy egyenlo egyutthatos modszer. Peldaul x+y=5, x-y=1 osszeadva 2x=6, x=3, y=2.
+oszthatosag,oszthatosagi szabalyok|2: paros vegzodes. 3: szamjegyek osszege oszthato 3-mal. 5: 0 vagy 5 a vegen. 9: szamjegyosszeg oszthato 9-cel. 10: 0 a vegen.
+szamrendszer,tizes szamrendszer|Tizes szamrendszer: 10 szamjegy. Kettes: 0 es 1. Tizenhatos: 0-9 es A-F. Probald: hex 255 vagy binary 13
+internet,mi az internet|Az internet halozatok halozata, kozos protokollokkal (TCP/IP). A web (WWW) ennek egy szolgaltatasa.
+processzor,cpu|A CPU a szamitogep agya: utasitasokat hajt vegre. A Flipper Zero-ban STM32WB55 (ARM Cortex-M4, 64 MHz) mukodik.
+ram,memoria|A RAM gyors, atmeneti memoria, kikapcsolaskor torlodik. A Flipper Zero-ban 256 KB SRAM es 1 MB flash van.
+bit,bajt,byte|1 bajt = 8 bit; 1 KB = 1024 bajt. Probald: 1 gb to mb
+programozas,programozni tanulas|Alapok: valtozo, feltetel (if), ciklus (for/while), fuggveny. Kezdoknek jo nyelv a Python; a Flipper alkalmazasok C-ben keszulnek.
+python,c nyelv|Python: egyszeru szintaxis, kezdoknek es adatelemzeshez. C: gyors, hardverkozeli; a Flipper alkalmazasok C nyelvuek.
+blivzy ai,hogyan mukodsz,hogyan mukodik a blivzy|A Blivzy AI szabalyalapu: szamolo motor + kereses a kb_hu.txt / kb_en.txt fajlokban. Nem neuralis halo, de a sajat tudasaddal bovitheto.
+erosjelszo,jelszo biztonsag|Jo jelszo: hosszu (12+ karakter), minden oldalra egyedi, jelszokezelovel. Kapcsold be a ketlepcsos azonositast.
+wifi,bluetooth|Wi-Fi: nagy sebesseg, helyi halozat (2,4/5 GHz). Bluetooth: kozeli eszkozok, kis fogyasztas. A Flipper Zero Bluetooth LE-t tud.
+phishing,adathalaszat|Adathalaszat: hamis level/oldal, ami jelszot vagy adatot csal ki. Ne kattints gyanus linkre; ellenorizd a feladot; hasznalj ketlepcsos azonositast.
+vpn|A VPN titkositott alagutat epit az eszkozod es egy szerver kozott; elrejti a forgalmad a helyi halozat elol. Nem teszi anonimma a bongeszest.
+gps|A GPS muholdak jeleibol szamolja a helyzetet; legalabb 4 muhold kell a pontos poziciohoz. A Flipper Zero-ban nincs beepitett GPS (kulso modullal igen).
+qr kod|A QR-kod ketdimenzios vonalkod: szoveget, linket tarol. Beolvasas kameraval; hibajavito kodot tartalmaz, ezert kicsit serulten is olvashato.
+arduino,raspberry pi,esp32|Arduino: egyszeru mikrokontroller-lap. Raspberry Pi: kis Linux-szamitogep. ESP32: olcso Wi-Fi/Bluetooth mikrokontroller. A Flipper GPIO-ja ezekhez csatlakozhat.
+ellenallas szinkod,szinkod|Ellenallas szinkod: fekete 0, barna 1, voros 2, narancs 3, sarga 4, zold 5, kek 6, lila 7, szurke 8, feher 9. Az utolso gyuru a toleranca.
+sub ghz,subghz|A Sub-GHz radio (kb. 300-928 MHz, nem folyamatosan) kapunyitok, szenzorok jeleit veszi/adja. Orszagonkent eltero szabalyok: csak engedelyezett frekvenciat es sajat eszkozt hasznalj.
+ibutton|Az iButton (Dallas) egy fem gombocska egyedi azonositoval, pl. kaputelefonokhoz. Csak a sajat kulcsodat olvasd.
+badusb|A BadUSB a Flippert billentyuzetkent mutatja be; elore megirt szkriptet gepel. Csak a sajat gepeden vagy engedellyel hasznald.
+gpio,gpio labak|A GPIO programozhato labak 3,3 V logikaval. Ellenorizd a labkiosztast, ne adj a labakra tulfeszultseget.
+momentum firmware,momentum|A Momentum a Flipper Zero tobb funkcios egyedi firmware-je. Ez az app Momentumra keszult (.fap).
+fap,alkalmazas telepites|A .fap a Flipper alkalmazasfajlja (SD: apps mappa). Epites: ./fbt fap_blivzy_ai. Adatok: SD/apps_data/blivzy_ai/.
+akku,akkumulator,akku elettartam|A Flipper Zero 2000 mAh Li-Po akkumulatort hasznal. Hosszu taroloshoz 20-80% toltest tarts; hidegben gyorsabban merul.
+sd kartya|A Flipper SD kartyajan tarolodik az apps_data/blivzy_ai/ mappa: kb_hu.txt, kb_en.txt, words_hu.txt, words_en.txt.
+tanulasi tippek,hogyan tanuljak jobban|Tanulj 25 perc fokusz + 5 perc szunet (Pomodoro); tedd fel magadnak a kerdeseket (aktiv felidezes); ismeteld idoben elosztva; aludj eleget.
+jegyzeteles,jegyzetelo modszer|Jegyzetelesnel irj kulcsszavakat, ne mondatokat; hasznalj ket oszlopot (jegyzet / osszefoglalo), es 24 oran belul olvasd at.
+oneletrajz,cv|Oneletrajz: max. 1-2 oldal; nev, elerhetoseg, tapasztalat (legujabb elol), vegzettseg, keszsegek. Konkret eredmenyek szamokkal.
+allasinterju,interju tippek|Interju: ismerd meg a ceget, keszits 2-3 konkret peldat (STAR modszer), kerdezz te is, erkezz idoben.
+motivacio|Kezdj kis lepessel, tuzz ki konkret celt, es kovess egy egyszeru rutint. A kitartas tobbet er a lenduletnel.
+vizsgastressz,vizsgaszorongas|Vizsgastressznel segit: elosztott tanulas, alvas, levegovetel (4 mp be, 6 mp ki). Ha tartosan nyomaszt, beszelj tanarral, orvossal vagy szakemberrel.
+idegen nyelv tanulas,nyelvtanulas|Naponta 15-20 perc tobbet er, mint hetente egy hosszu ora. Hallgass, beszelj, olvass; szavakat szovegkornyezetben tanulj.
+penzugy,koltsegvetes|50-30-20 szabaly: 50% szuksegletek, 30% kivansagok, 20% megtakaritas. Eloszor allits fel vesztartalekot (3-6 havi koltseg).
+kamatos kamat|Kamatos kamat: A = P*(1 + r)^t. 1000 5%-on 10 evre = 1000*1.05^10, kb. 1628,89. Probald: 1000*1.05^10
+inflacio,arak emelkedese|Az inflacio az arak altalanos emelkedese: a penz vasarloereje csokken.
+teszta,hogyan fozzek teszta,teszta fozese|Teszta: 1 liter viz / 100 g, sos forro vizben, kb. 8-11 perc (csomagolas szerint), leszurni es kesz.
+palacsinta,palacsinta recept|Palacsinta: 2 tojas, 25 dkg liszt, 4 dl tej, csipet so, 1 ek olaj, keves szoda. Pihentesd 15-30 percet, serpenyoben suss.
+rantotta|Rantotta: tojas sovan felverve, vajon kozepes langon kevergetve; mielott teljesen megszilardul, levesszuk.
+burgonya fozese,krumpli|Burgonya: hideg vizben indul, sozva 15-25 perc (merettol fuggoen) fozni, amig villaval puha. Hejaban fozve jobban megtartja az izet.
+kenyer sutese,kenyer|Alapkenyer: liszt, viz, so, ehesto; 1-2 ora kelesztes, 220 C-on 30-40 perc. Gozzel kapsz ropogos kerget.
+hany nap van egy evben,szokoev|365 nap, szokoevben 366. Szokoev, ha 4-gyel oszthato (kiveve a 100-zal oszthatot, ha 400-zal nem). 2028 szokoev.
+het napjai,honapok|Het napjai: hetfo, kedd, szerda, csutortok, pentek, szombat, vasarnap. Honapok: januar, februar, marcius, aprilis, majus, junius, julius, augusztus, szeptember, oktober, november, december.
+agy|Az emberi agy kb. 86 milliard idegsejtet tartalmaz; a testsuly ~2%-a, az energia ~20%-at hasznalja.
+emesztes,gyomor|Az emeszteskor az etel szajban, gyomorban, vekonybelben bomlik le; a tapanyagok a vekonybelben szivodnak fel; a vastagbel a vizet vonja el.
+bakterium,virus,bakterium vagy virus|Bakterium: onallo egysejtu eloleny (antibiotikum hat ra). Virus: csak gazdasejtben szaporodik (antibiotikum nem hat; ellene oltas, viruselleni szerek).
+vedooltas,oltas|Az oltas az immunrendszert tanitja fel egy kortokozora; igy a valodi fertozes enyhebb vagy elmarad. Kerdesekkel fordulj az orvosodhoz.
+elsosegely,elsosegelynyujtas|Veszelyhelyzetben hivd a 112-t. Verzes: nyomas tiszta ruhaval. Eszmeletlen, nem lelegzik: 112 es ujraeleesztes (mellkas-kompresszio ~100-120/perc).
+segelyhivo szamok,telefonszamok|Magyarorszag: 112 egyseges segelyhivo, 104 mentok, 105 tuzoltok, 107 rendorseg.
+tapanyagok,feherje szenhidrat zsir|Makrotapanyagok: feherje (izom, 4 kcal/g), szenhidrat (energia, 4 kcal/g), zsir (9 kcal/g). Rostokat zoldseg, gyumolcs, teljes kiorlesu gabona ad.
+kaloria,kaloriaszamlalas|A kaloria energiamertek (kcal). Az egyeni szukseglet kortol, nemtol, mozgastol fugg; pontos tervert kerj dietetikust.
+testmozgas,edzes tippek|Heti 150 perc merseklet aerob mozgas javasolt, plusz 2 alkalom erosito edzes. Kezdd kicsiben, melegitsd at, pihenj eleget.
+meditacio,levegovetel|Egyszeru gyakorlat: 5 percig figyeld a lelegzetedet; ha elkalandozol, szelden visszater. 4-6 masodperces be- es kilelegzes nyugtat.
+hany eves vagy|Szoftver vagyok, nincs eletkorom; a verzioszamom 0.5.
+szeretlek|Koszonom! Egy offline program vagyok, de jol esik. Miben segithetek?
+ertesz magyarul,beszelsz magyarul|Igen! Magyarul es angolul is ertem a kerdeseket. Ekezettel vagy anelkul is irhatsz.
+melyik a kedvenc szined|Nekem a Flipper narancssarga a kedvencem.
+letezik ufo,ufo|Biztos bizonyitek nincs idegen latogatokra. Az viszont tudomanyos kerdes, hogy van-e elet mas bolygokon: kutatjak (pl. Mars, Europa-hold, exobolygok).
+mi az elet ertelme|Filozofiai kerdes. Douglas Adams viccesen 42-t felelt. Mit tartasz fontosnak: kapcsolatok, tanulas, alkotas?
+kb frissites,hogyan tanitsalak|Szerkeszd az SD kartyan a kb_hu.txt / kb_en.txt fajlt: soronkent kulcsszo1,kulcsszo2|valasz. A hosszabb kulcsszo tobb pontot er. Ekezet nelkul irj.
+nyelv valtas,magyar nyelv beallitas|A fomenuben a Nyelv sort valaszd: English / Magyar. Magyar modban QWERTZ a billentyuzet; a # gomb: szimbolumok, majd ekezetes betuk.
+billentyuzet,hogyan irjak ekezetet|A # gomb vegigleptet: betuk -> szimbolumok -> ekezetes betuk (magyar modban). Az ekezetes betuk is mukodnek, de a keresesek ekezet nelkul is megertenek.
+hang sebessege,hangsebesseg|Levegoben 20 C-on kb. 343 m/s (1235 km/h). Vizben ~1480 m/s, acelban ~5960 m/s. Vakuumban a hang nem terjed.
+szokesi sebesseg|A Fold szokesi sebessege kb. 11,2 km/s (40 300 km/h): v = gyok(2GM/r). A Holde csak 2,4 km/s.
+mozgasi energia,helyzeti energia,energiamegmaradas|Mozgasi energia = 1/2*m*v^2. Helyzeti energia = m*g*h. Az energia atalakul, de nem keletkezik es nem vesz el.
+teljesitmeny,watt|Munka W = F*s (joule). Teljesitmeny P = W/t (watt). 1 loero kb. 746 W. Elektromos teljesitmeny P = U*I.
+nemesgazok|Helium, neon, argon, kripton, xenon, radon (18. csoport): nagyon kevesbe reaktivak, mert a kulso elektronhejuk betoltott.
+kemhatas,ph skala,ph|A pH 0-14: 7 alatt savas, 7 semleges (tiszta viz), 7 felett lugos. Minden lepes 10-szeres H+ koncentracio-valtozas. A citromle kb. 2.
+kemiai kotes,ionkotes,kovalens kotes|Ionkotes: elektronatadas (NaCl, konyhasa). Kovalens kotes: kozos elektronpar (H2O, CH4). A femekben szabad elektronok vannak.
+mol,avogadro,molaris tomeg|1 mol = 6,022e23 reszecske (Avogadro-szam). n = tomeg / moltomeg. 18 g viz kb. 1 mol.
+izotop,radiokarbon|Az izotopok azonos elem, kulonbozo neutronszamu atomjai, pl. C-12 es C-14. A C-14 szerves maradvanyok koranak meghatarozasara szolgal (kb. 50 000 evig).
+felezesi ido,radioaktiv bomlas|Az az ido, amig a radioaktiv minta fele elbomlik: N = N0 * (1/2)^(t/T). A C-14 felezesi ideje kb. 5730 ev.
+lemeztektonika,kontinensvandorlas|A Fold kerge lemezekre tagolt, evente par cm-t mozognak. A hataraikon foldrengesek, vulkanok es hegysegek (Himalaja) keletkeznek.
+fold szerkezete,fold retegei,fold magja|Kereg (vekony, ~70 km-ig), kopeny (~2900 km, lassan aramlo kozet), folyekony kulso mag, szilard vas-nikkel belso mag (~5200 C).
+koreg,kozetek,magmas kozet,uledekes kozet|Magmas kozet a lehulo magmabol, uledekes az osszepresselt uledekbol, atalakult a hotol es nyomastol valtozott kozetbol keletkezik. A kozetek korforgast alkotnak.
+ozonreteg|Az ozonreteg (15-35 km magasan) elnyeli a karos UV-sugarzas nagy reszet. A freonok karositottak; a Montreali Jegyzokonyv (1987) utan lassan regeneralodik.
+szenkorforgas|A szen a levego (CO2), novenyek, allatok, talaj, ocean es kozetek kozott kering. A fotoszintezis megkoti, a legzes, rothadas es tuzeles visszajuttatja.
+termeszetes kivalogatodas,darwin|Darwin (1859): a kornyezetehez jobban alkalmazkodo, oroklodo tulajdonsagu egyedek tobb utodot hagynak, ezert a populaciok generaciokon at valtoznak.
+mitozis,meiozis|A mitozis ket azonos testi sejtet hoz letre (novekedes, javitas). A meiozis negy genetikailag kulonbozo ivarsejtet, feleannyi kromoszomaval.
+kromoszoma,genom|Az embernek 46 kromoszomaja (23 par) es kb. 20 000 feherjekodolo gene van. Az egyik par hatarozza meg a nemet: XX vagy XY.
+enzim,enzimek|Az enzimek feherje katalizatorok, felgyorsitjak a reakciokat. Mindegyik egy adott szubsztratumhoz illik, es sajat homerseklet- es pH-optimuma van.
+antibiotikum|Az antibiotikum a bakteriumok ellen hat, a virusok ellen nem. Az orvos altal felirt kurat vegig kell szedni; a felesleges hasznalat rezisztens bakteriumokat nevel.
+lazas,testhomerseklet|Normal testhomerseklet kb. 36,1-37,2 C. Lazrol altalaban 38 C folott beszelunk. Magas vagy tartos lazzal, babaknal pedig mielobb, fordulj orvoshoz.
+specialis szorzatok,algebrai azonossagok|(a+b)^2 = a^2+2ab+b^2; (a-b)^2 = a^2-2ab+b^2; (a+b)(a-b) = a^2-b^2; (a+b)^3 = a^3+3a^2b+3ab^2+b^3.
+szogfuggvenyek azonossagai,trigonometriai azonossagok|sin^2 x + cos^2 x = 1; tg x = sin x / cos x; sin 2x = 2 sin x cos x. sin 30 = 1/2, sin 45 = gyok2/2, sin 60 = gyok3/2.
+szinusztetel,koszinusztetel|Szinusztetel: a/sin A = b/sin B = c/sin C. Koszinusztetel: c^2 = a^2 + b^2 - 2ab cos C (C = 90 foknal Pitagorasz-tetel).
+terulet kepletek|Teglalap a*b; haromszog 1/2*a*m; paralelogramma a*m; trapez (a+c)/2*m; kor pi*r^2. Irj: area of circle radius 5
+terfogat kepletek|Kocka a^3; teglatest a*b*c; henger pi*r^2*m; kup 1/3*pi*r^2*m; gomb 4/3*pi*r^3; gula 1/3*alapterulet*m.
+mertani sorozat|Tagjai a, aq, aq^2... n tag osszege = a(1-q^n)/(1-q). Ha |q| < 1, a vegtelen osszeg a/(1-q).
+gauss osszeg,egeszek osszege|1+2+...+n = n(n+1)/2. 1-tol 100-ig 5050. Probald: sum of x from 1 to 100
+egyszeru kamat,hitel torleszto|Egyszeru kamat K = T*r*t. Hitel havi torleszto: M = T*r/(1-(1+r)^-n), r a havi kamat, n a torleszto reszletek szama. Probald: hitel 10000 5% 3 ev
+normalis eloszlas,harang gorbe|A harang alaku gorbe az atlag korul szimmetrikus. Az ertekek ~68%-a 1 szorason, 95%-a 2, 99,7%-a 3 szorason belul van. Probald: szoras 2 4 4 4 5 5 7 9
+nagy o jeloles,idokomplexitas|A futasi ido novekedeset irja le n fuggvenyeben: O(1) allando, O(log n) binaris kereses, O(n) vegigolvasas, O(n log n) jo rendezesek, O(n^2) egymasba agyazott ciklusok.
+rendezo algoritmusok,buborekrendezes,gyorsrendezes|A buborekrendezes O(n^2), egyszeru. Az osszefuto es a gyorsrendezes atlagosan O(n log n). A gyorsrendezes pivot koruli osztassal, az osszefuto felezessel es egyesitessel dolgozik.
+binaris kereses|Rendezett listaban a kozepso elemet nezzuk, a felesleges felet eldobjuk, ismeteljuk. O(log n) lepes: egymillio elemnel kb. 20.
+git,verziokovetes|A Git a valtozasokat koveti: git init, git add, git commit -m "uzenet", git status, git log, git branch, git merge, git push, git pull.
+http hibakodok,404 hiba|200 OK, 301 vegleges atiranyitas, 403 tiltott, 404 nem talalhato, 500 szerverhiba, 503 nem elerheto.
+ip cim,tcp udp|Az IP-cim azonosit egy eszkozt a halozaton (IPv4: 192.168.0.1). A DNS a neveket IP-cimre forditja. A TCP megbizhato, a UDP gyorsabb, de csomagok elveszhetnek.
+ascii,unicode,utf-8|Az ASCII 128 karakter (A = 65, a = 97). A Unicode tobb mint 150 000 karaktert ismer; az UTF-8 1-4 bajton kodolja, az ASCII-t valtozatlanul hagyja.
+rgb szin,hex szin|A szinek piros, zold, kek osszetevoje 0-255. Hex #RRGGBB: #FF0000 piros, #00FF00 zold, #0000FF kek, #FFFFFF feher, #000000 fekete.
+felelos hackeles,flipper torvenyes|Radio-, NFC-, RFID-, infra- vagy BadUSB-teszteket csak sajat vagy kifejezett engedellyel tesztelheto eszkozokon vegezz. Masok kartyajanak masolasa vagy a jelek zavarasa illegalis lehet.
+qflipper,flipper frissites|Frissits qFlipperrel PC-rol, vagy a Momentum web-frissitovel. Elotte mentsd az SD-kartyat.
+vilag nepessege|Kb. 8 milliard ember. A legnepesebb orszagok India es Kina, utanuk az USA, Indonezia es Pakisztan.
+mariana arok,legmelyebb ocean|A Csendes-oceani Mariana-arok kb. 10 900 m melyen van, melyebb, mint amilyen magas a Mount Everest.
+egyenlito,foldrajzi szelesseg,foldrajzi hosszusag|A foldrajzi szelesseg az egyenlitotol (0) eszakra-delre, a hosszusag a greenwichi foldrajzi hosszusagi kortol (0) keletre-nyugatra mer. Budapest kb. 47,5 eszaki szelesseg, 19 keleti hosszusag.
+europai unio,eu|Az EU 27 orszag politikai es gazdasagi szovetsege. Magyarorszag 2004-ben csatlakozott, es meg a forintot hasznalja, nem az eurot.
+egyesult nemzetek,ensz,nato|Az ENSZ 1945-ben alakult, 193 tagallama van. A NATO 1949-es vedelmi szovetseg; Magyarorszag 1999-ben csatlakozott.
+berlini fal|1961-ben epult Kelet- es Nyugat-Berlin elvalasztasara, 1989. november 9-en leomlott, Nemetorszag 1990-ben egyesult.
+urverseny,szputnyik,gagarin|A Szputnyik-1 (1957) volt az elso muhold. Jurij Gagarin 1961-ben elsokent jutott az urbe. Az Apollo-11 1969-ben szallt le az emberekkel a Holdon.
+nemzetkozi urallomas,iss|Az ISS kb. 400 km magasan kering ~28 000 km/h sebesseggel, ~90 perc alatt kerul meg a Foldet. 2000 novembere ota folyamatosan lakott.
+james webb,hubble|A Hubble (1990) lathato es UV fenyben lat a Fold korul keringve. A James Webb (2021 dec.) infravorosben lat 6,5 m-es tukorrel, kb. 1,5 millio km-re, az L2 pontnal.
+exobolygo|Az exobolygok mas csillagok korul keringenek. Tobb ezret igazoltak, leginkabb tranzit (a csillag halvanyodasa) es ingamozgas merese alapjan.
+aktiv szerkezet,szenvedo szerkezet|Aktiv: A kutya kergette a labdat. Szenvedo: A labdat kergette a kutya. A kozlendo tisztasaga miatt altalaban az aktiv jobb.
+bevezetes irasa,hogyan kezdjek esszet|Kezdd felkelto resszel (kerdes, tenny, rovid tortenet), adj roviden hatteret, majd zard a tezissel. Az esszenek kb. 10%-a legyen.
+befejezes irasa,hogyan fejezzek be esszet|Fogalmazd ujra a tezist, foglald ossze a fo pontokat, majd zaro gondolat: miert fontos, mi jon ezutan. Ne vezess be uj erveket.
+plagium,megbizhato forrasok|A plagium mas szavainak vagy otleteinek sajatkent valo feltuntetese. Idezz vagy parafrazalj, es hivatkozz. Megbizhato: lektoralt cikkek, hivatalos statisztika, ismert lexikonok; nezd a szerzot es a datumot.
+logikai hibak|Gyakoriak: szemelyeskedes (a szemelyt tamadja), szalmabab-erveles, hamis dilemma, csuszos lejto, tekintelyre hivatkozas, korkoros erveles.
+pomodoro,pomodoro technika|25 perc teljes fokusz, 5 perc szunet; negy kor utan 15-30 perc pihenes. A telefont tedd el a szamlalo alatt.
+ismetles,aktiv felidezes|Ne csak olvasd ujra, kerdezd ki magad; az ismetleseket novekvo kozokkel idozitsd (1, 3, 7, 14, 30 nap). Tanulokartyak szavakhoz es tenyekhez jol mukodnek.
